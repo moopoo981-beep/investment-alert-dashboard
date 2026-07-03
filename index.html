@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Investment Alert Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page-bg"></div>
+
+  <header class="hero">
+    <nav class="nav">
+      <div class="brand">
+        <div class="brand-icon">📈</div>
+        <div>
+          <strong>Investment Alert</strong>
+          <span>AI Portfolio Watchlist</span>
+        </div>
+      </div>
+
+      <div class="nav-actions">
+        <button class="theme-toggle" id="themeToggle" type="button">🌙</button>
+        <div class="sync-pill" id="lastUpdated">Loading...</div>
+      </div>
+    </nav>
+
+    <section class="hero-content">
+      <div>
+        <p class="eyebrow">Personal Investment Dashboard</p>
+
+        <div class="hero-buttons">
+          <a href="#analysis" class="primary-btn">อ่านผลวิเคราะห์</a>
+          <a href="#portfolio" class="secondary-btn">ดูพอร์ต</a>
+        </div>
+      </div>
+
+      <div class="market-card glass">
+        <p class="market-label">วันนี้ควรดูอะไร?</p>
+        <h2 id="todayFocus">กำลังโหลดข้อมูล...</h2>
+        <p id="todayFocusSub">ระบบจะสรุปจากข่าวและพอร์ตของคุณ</p>
+      </div>
+    </section>
+  </header>
+
+  <main class="container">
+    <section class="stats-grid">
+      <article class="stat-card">
+        <span class="stat-icon">💼</span>
+        <p>สินทรัพย์ในพอร์ต</p>
+        <h2 id="assetCount">-</h2>
+      </article>
+
+      <article class="stat-card">
+        <span class="stat-icon">📰</span>
+        <p>ข่าวที่วิเคราะห์แล้ว</p>
+        <h2 id="newsCount">-</h2>
+      </article>
+
+      <article class="stat-card alert-card">
+        <span class="stat-icon">🚨</span>
+        <p>รายการที่ต้องสนใจ</p>
+        <h2 id="alertCount">-</h2>
+      </article>
+
+      <article class="stat-card">
+        <span class="stat-icon">🎯</span>
+        <p>แตะราคาเป้าซื้อ</p>
+        <h2 id="targetCount">-</h2>
+      </article>
+    </section>
+
+    <section class="panel" id="analysis">
+      <div class="panel-head">
+        <div>
+          <p class="eyebrow dark">AI News Analysis</p>
+          <h2>ข่าวล่าสุดที่เกี่ยวกับพอร์ต</h2>
+        </div>
+
+        <div class="filter-row">
+          <button class="filter-btn active" data-filter="all">ทั้งหมด</button>
+          <button class="filter-btn" data-filter="alert">Alert</button>
+          <button class="filter-btn" data-filter="High">High</button>
+          <button class="filter-btn" data-filter="Medium">Medium</button>
+          <button class="filter-btn" data-filter="Low">Low</button>
+        </div>
+      </div>
+
+      <div class="search-box">
+        <input id="newsSearch" type="search" placeholder="ค้นหาข่าว / หุ้น / คำแนะนำ เช่น NVDA, AI, รอดู..." />
+      </div>
+
+      <div id="resultsList" class="news-grid"></div>
+    </section>
+
+    <section class="panel" id="portfolio">
+      <div class="panel-head">
+        <div>
+          <p class="eyebrow dark">Portfolio</p>
+          <h2>สินทรัพย์ที่ติดตาม</h2>
+        </div>
+        <span class="muted">แก้ข้อมูลได้ที่ data/portfolio.json</span>
+      </div>
+
+      <div id="assetCards" class="asset-grid"></div>
+
+      <div class="table-card">
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Symbol</th>
+                <th>Name</th>
+                <th>Type</th>
+                <th>ต้นทุน</th>
+                <th>ราคาเป้าซื้อ</th>
+                <th>ราคาปัจจุบัน</th>
+                <th>สถานะ</th>
+              </tr>
+            </thead>
+            <tbody id="portfolioTable"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>ใช้เพื่อช่วยติดตามข้อมูลเบื้องต้น ไม่ใช่คำแนะนำการลงทุนแบบรับประกันผลตอบแทน</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
