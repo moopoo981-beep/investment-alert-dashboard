@@ -1,0 +1,132 @@
+[
+  {
+    "symbol": "VOO",
+    "name": "Vanguard S&P 500 ETF",
+    "type": "etf",
+    "average_cost": null,
+    "buy_target_price": null,
+    "current_price": null,
+    "yf_symbol": "VOO",
+    "note": "US ETF"
+  },
+  {
+    "symbol": "VT",
+    "name": "Vanguard Total World Stock ETF",
+    "type": "etf",
+    "average_cost": null,
+    "buy_target_price": null,
+    "current_price": null,
+    "yf_symbol": "VT",
+    "note": "Global ETF"
+  },
+  {
+    "symbol": "VIG",
+    "name": "Vanguard Dividend Appreciation ETF",
+    "type": "etf",
+    "average_cost": null,
+    "buy_target_price": null,
+    "current_price": null,
+    "yf_symbol": "VIG",
+    "note": "Dividend growth ETF"
+  },
+  {
+    "symbol": "VYM",
+    "name": "Vanguard High Dividend Yield ETF",
+    "type": "etf",
+    "average_cost": null,
+    "buy_target_price": null,
+    "current_price": null,
+    "yf_symbol": "VYM",
+    "note": "High dividend ETF"
+  },
+  {
+    "symbol": "BND",
+    "name": "Vanguard Total Bond Market ETF",
+    "type": "etf",
+    "average_cost": null,
+    "buy_target_price": null,
+    "current_price": null,
+    "yf_symbol": "BND",
+    "note": "Bond ETF"
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA",
+    "type": "stock",
+    "average_cost": null,
+    "buy_target_price": null,
+    "current_price": null,
+    "yf_symbol": "NVDA",
+    "note": "AI semiconductor"
+  },
+  {
+    "symbol": "SPCX",
+    "name": "SPCX",
+    "type": "stock",
+    "average_cost": null,
+    "buy_target_price": null,
+    "current_price": null,
+    "yf_symbol": "SPCX",
+    "note": "ตรวจสอบว่าเป็น SPCX ที่ต้องการหรือไม่"
+  },
+  {
+    "symbol": "CPALL",
+    "name": "CP ALL",
+    "type": "stock",
+    "average_cost": null,
+    "buy_target_price": null,
+    "current_price": null,
+    "yf_symbol": "CPALL.BK",
+    "note": "Thai stock"
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Class A",
+    "type": "stock",
+    "average_cost": null,
+    "buy_target_price": null,
+    "current_price": null,
+    "yf_symbol": "GOOGL",
+    "note": "US tech"
+  },
+  {
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices",
+    "type": "stock",
+    "average_cost": null,
+    "buy_target_price": null,
+    "current_price": null,
+    "yf_symbol": "AMD",
+    "note": "Semiconductor"
+  },
+  {
+    "symbol": "TSM",
+    "name": "Taiwan Semiconductor Manufacturing",
+    "type": "stock",
+    "average_cost": null,
+    "buy_target_price": null,
+    "current_price": null,
+    "yf_symbol": "TSM",
+    "note": "Semiconductor foundry"
+  },
+  {
+    "symbol": "INTC",
+    "name": "Intel",
+    "type": "stock",
+    "average_cost": null,
+    "buy_target_price": null,
+    "current_price": null,
+    "yf_symbol": "INTC",
+    "note": "Semiconductor"
+  },
+  {
+    "symbol": "SNDK",
+    "name": "Sandisk",
+    "type": "stock",
+    "average_cost": null,
+    "buy_target_price": null,
+    "current_price": null,
+    "yf_symbol": "SNDK",
+    "note": "Memory / storage"
+  }
+]
