@@ -1,0 +1,122 @@
+[
+  {
+    "time": "2026-07-03 13:33:59",
+    "news_title": "Intel (NASDAQ:INTC) Shares Down 9% - Here's What Happened - MarketBeat",
+    "source": "MarketBeat",
+    "impact_level": "High",
+    "affected_assets": [
+      "INTC",
+      "VOO",
+      "VT",
+      "NVDA",
+      "AMD",
+      "TSM"
+    ],
+    "analysis_summary": "หุ้น Intel (INTC) ปรับตัวลดลงรุนแรงถึง 9% ส่งผลกระทบโดยตรงต่อสัดส่วนหุ้นกลุ่มเซมิคอนดักเตอร์ในพอร์ต และอาจกดดันภาพรวมของกองทุนดัชนีสหรัฐฯ และตลาดโลกในระยะสั้น",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": true,
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGlZel9TZXV0TWdCM2pqLXZVemNwc0drdFBoMTNqWWhSbVFObkVQTlhnX1B1N3VsdE12by0wenRmQlRHYldjcG8ycFRnV0JIX3p1TEZRYmdIZzVzb3h6WmlEMFNPN2tldzQ1TjJTa0dRV0pseC1MUlZuMTFPb0lZOXhzRHl5WldjZEhOQWFtdW9OSC0wODBwLWVKNFc3ZDVDcE1sc3BMaw?oc=5"
+  },
+  {
+    "time": "2026-07-03 13:34:04",
+    "news_title": "AMD stock soars on Q1 earnings beat, better-than-expected outlook amid strong AI chip demand - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "impact_level": "High",
+    "affected_assets": [
+      "AMD",
+      "NVDA",
+      "TSM",
+      "INTC",
+      "VOO",
+      "VT"
+    ],
+    "analysis_summary": "AMD รายงานผลประกอบการ Q1 ดีกว่าคาดและให้แนวโน้มเชิงบวกจากความต้องการชิป AI ที่แข็งแกร่ง ส่งผลบวกโดยตรงต่อกลุ่ม Semiconductor และกองทุนดัชนีหุ้นสหรัฐฯ ในพอร์ต",
+    "action_recommendation": "ถือ",
+    "trigger_alert": true,
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQ21TU0pxOWJ5c1NYbHY2R3RLYklyU2dxRU5LcjQ5VmRRQlptR1poSHAwSjdXRVprMC04OTg0N29HbEtpbk9RcjN0Y1V3ckFlLVpIeTFVLU4yMWdGTVc1eEZNUVFZV19WOVNnN2NOUlZEU21oaEdBN2hNM0ZKNG4xRWNiZWFUVzFNakotVDlFWHE0bEJ4aTZMMk5KTlFvVDFFWVJUNnMwWk9YZE9mamctRG9UNHpsbDFsakNweGhKODVIbWE5ajI5YlVwdFp1b29sYzBrcGlva1h1Nl9UaFZ1TkJaQy05cWFZVE8xdnZhVEE?oc=5"
+  },
+  {
+    "time": "2026-07-03 13:34:30",
+    "news_title": "SPCX Stock Quote Price and Forecast - CNN",
+    "source": "CNN",
+    "impact_level": "Low",
+    "affected_assets": [
+      "SPCX"
+    ],
+    "analysis_summary": "ข่าวเป็นการรายงานราคาและบทวิเคราะห์คาดการณ์ทั่วไปของหุ้น SPCX จาก CNN ไม่พบข้อมูลเชิงลบหรือปัจจัยกระตุ้นที่ส่งผลกระทบอย่างมีนัยสำคัญต่อพื้นฐานของสินทรัพย์ในขณะนี้",
+    "action_recommendation": "ถือ",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mNFpQdmpQSHpfbjh0RmFkcGxLQ1d1dWxoeUoxMTUwM0pnRmYwRDVjMFlvdVNKQm85LUsxSjNVZFlSZm9iSmYwRkJfSVhlNmtK?oc=5"
+  },
+  {
+    "time": "2026-07-03 13:35:27",
+    "news_title": "Here's How Much Traders Expect Nvidia's Stock to Move After Earnings - Investopedia",
+    "source": "Investopedia",
+    "impact_level": "High",
+    "affected_assets": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "INTC",
+      "VOO",
+      "VT"
+    ],
+    "analysis_summary": "ตลาดคาดการณ์ความผันผวนรุนแรงของราคาหุ้น NVDA หลังการประกาศผลประกอบการ ซึ่งจะส่งผลกระทบโดยตรงต่อกลุ่ม Semiconductor และดัชนี S&P 500 ที่มีน้ำหนักของหุ้นกลุ่มเทคโนโลยีสูง",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": true,
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHF1MWpQNF9pZ1UxVnVYcjRGLWNPVHR4enhuYjU0UnJWMTZZa0YtTnU2bFJMQVVwdE5YWElkSnoyWEhDLVJkdUoyN2JlS2J5VmlnaXB2TEZhajVtZ1B1VlZMMDhHaFYtTlBoMEhwU05ha2p5N0xSWWZFbnZxTEpieVRGXzhmSjlUd3BxSlJMWC12UEFnRF9jbjU5VmF5YkdNYzZZT3phQVFYbUlGQ25YaEgzZnN6Mjk1V0NObzFYbVF1TVAxZWc?oc=5"
+  },
+  {
+    "time": "2026-07-03 13:35:45",
+    "news_title": "AMD Stock Is Downgraded Before Earnings. Why This Analyst Soured on the Shares. - Barron's",
+    "source": "Barron's",
+    "impact_level": "High",
+    "affected_assets": [
+      "AMD",
+      "NVDA",
+      "TSM",
+      "INTC",
+      "VOO",
+      "VT"
+    ],
+    "analysis_summary": "AMD ถูกปรับลดอันดับความน่าเชื่อถือก่อนประกาศผลประกอบการ สะท้อนความกังวลของนักวิเคราะห์ต่อแนวโน้มการเติบโต ซึ่งส่งผลกระทบโดยตรงต่อกลุ่มเซมิคอนดักเตอร์และดัชนีตลาดโดยรวม",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": true,
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3Z1OVVNTE5FQ08wRGs1NENvVEpiUmxUbUJFZzRKbldEdDhRQmVHLVp4ZlpoSjEzNTd0SU9XTl94Snh3N3NjZG9ZMTh2cjExcUp2NFZic2h0S3YxcExQSHdVcERXVW1NZVNTc0dKRnptdGlyWTFHS1V3d2NsWnhVMTZLMzlrX05hTTdEZFNJM0x2Q0dmOEE5WmpQMTZ2b1hHU0NV?oc=5"
+  },
+  {
+    "time": "2026-07-03 13:36:37",
+    "news_title": "NVDA stock gains as analyst raises price target to $260 ahead of May 20 earnings - eciks.org",
+    "source": "eciks.org",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZmczQW9BUzJHSHlhQTBkaEVxdDV6NWxpU01rQkdqWFJKSS16eFU1VTBsSUg0YjJGNjVoUlBvbXpEdFBTdE1mVkxhSVNjMUFFVHNjMWRpQUdvd2lrUEJCMy03bmNCRjV3YzVkUVhrT0xmUFlDUE9FN3lzMk0yUFJ3azRMNTNqVkRiaWZqbjhtN0l3dXhJc0VCR0NVUGdzczBrTzVERmwtQ24xMHlh?oc=5"
+  },
+  {
+    "time": "2026-07-03 13:37:14",
+    "news_title": "Sandisk stock falls despite strong earnings report as investors 'sell the news' after powerful rally - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "impact_level": "High",
+    "affected_assets": [
+      "SNDK"
+    ],
+    "analysis_summary": "ราคาหุ้น SNDK ปรับตัวลดลงแม้ผลประกอบการจะออกมาแข็งแกร่ง เนื่องจากนักลงทุนขายทำกำไร (Sell the News) หลังจากการพุ่งขึ้นของราคาอย่างรุนแรงก่อนหน้านี้ ซึ่งเป็นปัจจัยด้านจิตวิทยาตลาดระยะสั้น",
+    "action_recommendation": "ถือ หรือ รอดูสถานการณ์",
+    "trigger_alert": true,
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdERWM2lrWG5OOEZfZHVuNVZNYkNFRm9KcWwyYlhyZ2htY3lSOVdTWGRNQXpSb1JIUExRRk40QnVMZTlzazRSY0VyQ3RNUDJiWGJNbF9ZWFN6N283eWhQZEJOdHlNeHk3dl9aQ0NKcnN2MkNHYl9mWEt5VGFpZGF3TW1DbGZtbXAtSXpKLWNxWXZ3TUI2dXhJanlnRHYwY0lOV2dxZTlrcm5LVnFkMWU0cEpMSjVWeGQ2TEE4RlQxMGVIOFNnMzhrTnFFX0xDUkVZbS1zMWNaOFE1Vk1ycnFrcXNlc0hpc3p3Z1dF?oc=5"
+  },
+  {
+    "time": "2026-07-03 13:37:15",
+    "news_title": "Nvidia Reports Earnings Wednesday—Here Are 5 Key Things Wall Street Analysts Will Be Watching - Investopedia",
+    "source": "Investopedia",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRDRDME5WelIzTXVEYnd1YjlCVTdzcy1FcGRpb29LYTlqUXBKNWQxelI4Y2duUmQ5c3U1bnZ1X0RhR3JrYlhsbTlUQ0ZXNVBzSmxzdWZzQnBIYTVGeW5hb0p3Rm5RSEJfNkRfMnZ4SDd0TS01c0xuSHlOTGZoSDk4S2Z4ZmVjMmdYU2xkUDhjYWRaRzR4akZXeXFvcUJnbHdpYXZ3MzJHVkFRUTFRaTVCNWZLcXg5THlTb05hYnVMaG4tZ1NGVlE?oc=5"
+  }
+]
