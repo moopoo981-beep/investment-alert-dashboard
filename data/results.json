@@ -1,50 +1,61 @@
 [
   {
-    "time": "2026-07-29 04:12:36",
-    "news_title": "Advanced Micro Devices (AMD) to Post Earnings on Tuesday - MarketBeat",
+    "time": "2026-07-30 03:57:20",
+    "news_title": "Erste Group Bank Issues Optimistic Forecast for AMD Earnings - MarketBeat",
     "source": "MarketBeat",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2I1alV0U2hQMWFmaldXTjFLZ1JFbTI2RGR0ci1XSDlYOHNSV3o2Vk41dWF4M3E3RVN3VkFMbWl2MVJTNF9qWlFPdzRRWXFSOTRsZHpCYWJLRFIyckZ2LURqZW5WNmM4S2UyYnZmVGxxX2Y3YnlRZ3pwSWtMQWJuZFFlUzZlcE9XQ09Lck5qY0E4VkdrVGVXdG11TnY3dzFSRUs0Y1NOUlMwSWtN?oc=5"
-  },
-  {
-    "time": "2026-07-29 04:12:36",
-    "news_title": "Why This Analyst Is Betting AMD Stock Can Hit $1,250 in the Next Year - Barchart.com",
-    "source": "Barchart.com",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQjFkYUlpU3d0WERQRWpxM1AydGl6MkhtbXFLVF9yVDdjYUVxRG91OGQxQ3VwOVkzSmpMQ2RDVi1YbjZESkpxbmV3YVlnUDBmVUFQeW10ZlptZ2dOS2diQjd4VnFJVmtIdGhhVUtwVTMwenNuazAxX3diR1hKZ0ktUUE5a3lpR3Q5M3E4VUNkdGFEU2Ewd0wzOHZibjdGRGJZODZKX2pIa0RjcXhiM0RXSHl3?oc=5"
-  },
-  {
-    "time": "2026-07-29 04:12:36",
-    "news_title": "INTC Stock Sees Price Target Hikes On Q2 Beat, But Analysts Say Key Foundry Catalyst 'Has Not Yet Arrived' - TradingView",
-    "source": "TradingView",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEctaUZQQ3B5cVl6WDJTRW94VWoxYXFfTHlTVmdoajZfMmdaTnRLU1BpYVlBQjdDOFpCTDBKb3oyajl5YXpnNmp0UV9OYWlJUDUyQzk0X0hSNmFCV3BncEIwX250ZFd6bnNWT1ZsRUV0bjFFalVGQ29zZzJzelpSaFlsOER3WmNpTjRJcF9hX00tVHFET0tGdDZyZ0hla3FNeTdFODAtN3pReGFoM2RSQ2kwQTY?oc=5"
+  },
+  {
+    "time": "2026-07-30 03:57:20",
+    "news_title": "Sandisk Slides as Memory-Sector Weakness and Pre-Earnings Caution Weigh on Shares - Quiver Quantitative",
+    "source": "Quiver Quantitative",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObnRXVTQ3UFE0b2FZN18ycFlSYkdSUERwVjlWMmRzcThaSS1wTkNUSUthUnVlT1VvMW14UW1HRTJqVGpZZjBsYlpRdEpieTN1NHdxeTJNSVN1dE5ySHJ6QTFLWk9obUxSVUoyZlpuUGpWWmNLMXRhalk4QVgwbTQ1bFhQcHMyQ2VYZFN6OHZKRTd0M1VmcEREeGFxTUIxYlhCc2xnQWJ0bzluTnpud3N6NmlaSnI?oc=5"
+  },
+  {
+    "time": "2026-07-30 03:57:20",
+    "news_title": "5-star analyst aggressively resets Intel stock price target after earnings - thestreet.com",
+    "source": "thestreet.com",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZE9uaXNOLVEzeFdoaUQ2UkZGUkJ3WFBjVDZzc1VIa0t3Q2xQVG9vb0d1ZEpXS3lyNjZQZklaQWdJa1dyMFFnbVlONkNnd2l5RElHWEpCZ01yRUQyc0ZRb3FYdkpGNmVRcUVWS21EZ2xzNFpnYjVRWHhPVGk1alhRME8wVjlPWTNTS0k1NE9jeVVFUzNjV2VvWA?oc=5"
+  },
+  {
+    "time": "2026-07-30 03:57:20",
+    "news_title": "INTC Stock Sees Price Target Hikes On Q2 Beat, But Analysts Say Key Foundry Catalyst 'Has Not Yet Arrived' - TradingView",
+    "source": "TradingView",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMlBfd3IwVE8xS0FiVE5IQkk4QzB4clEtOGF4WHZBcE9HRmVLZ3BkQk52R0pPMlZjYkNKNElZQkdWcTg0eldSZVBrSjIyNDVKV2NmNDRwS3JxLVg2anl5XzNZbF9mTUltN05ZSmk3V01MS2JfcWdKa3FGcjc1ZFJHUDFsZU1tS19wVG9pT1NjZDVfbGxpaVRzd21Ja0hjWVhOU1hrdVBKM1ZHMDJfYTM5b21VOXhiN0I4Nlo1XzBNOXJCZXh5dVMxR0hVNDhWeGl3RkYtU0hSQnBEWEZPWEc1LVhCS3lmZUJhakVXUkJOY0N4V3NqTS1WRDZqNDM0TmlZQnBBSlg2RF9PM0Np?oc=5"
   },
   {
-    "time": "2026-07-29 04:12:36",
-    "news_title": "What's Going on With AMD Stock Monday? - Benzinga",
+    "time": "2026-07-30 03:57:20",
+    "news_title": "Intel Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call - Benzinga",
     "source": "Benzinga",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY2llQnQtRGU0eEJrUUxjck93VTZsYUZTV19QY0UzamhDZ1RDS3g3blQ5ai0zWTU2LS1iV3AxZUpkdnhnaHFSLThadzhNZEh2bnk3V1RyQkhDZ2MyZGV0LS1UT3MtZXV1TU0wMmZWSElQaUpRS2M0bVN6QWltN1loTkNsaTVvYzdSWVhyQUVxUlJpdWo0S2c?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdDRUX004MFZRMHB1VnpmNU1WeEtiQ1FmQkpxV0lsa0FkS2Z1NnpZdFB3emd6cGtJMlVXdVM3dTFvZGRUME55RGxzSV9nTmNnSE0tUFRjNklLaHZoUzJ3NS1GdldpcDdobzFoR18xQUlBLTFFWG9oNXJmMXFKeGRHX0stZ1RUTlMtTlBTWDZ6bUVsSHVvTTJrdUFHYnBYLVljQUNLdG9EN3h5TjhoOW5LUHNhMUdVQVVlc0NvNUdpM1Y3a3JlSzBFLUdqMDZFTmdDRWg1VE5zVFMyTko5QmpTbThsb1Npblhjc3RKU1ktaXBRLWZCSUMwMVlqM201Q2N1QXNB?oc=5"
   },
   {
-    "time": "2026-07-29 04:12:36",
+    "time": "2026-07-30 03:57:21",
     "news_title": "Here’s How Much Traders See Intel Stock Moving After Earnings - Investopedia",
     "source": "Investopedia",
     "impact_level": "Low",
@@ -55,7 +66,7 @@
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX001WEVmT0JLdU9fbVRPdHJaazV4MlFENVZCM1QyMlhPWFRjZ3pGam1VbHV0bFE3V2hQZnItSzIxNmFUVEh4RG9PWUEtSXVDZVU4c2RlVWcxeWRacXYyV3U5WWlFSFdlVDRCRmdZc3N0Q1dlUmpBRENtVjNmVUdfb2hhVHZZcGhGM1EyVnFWRThVSzhTWkhIYS1zVm5UbkF3TmdieWptanRPVFpQQWpFQ2hIRG9QRmFDSjVjZHRiNA?oc=5"
   },
   {
-    "time": "2026-07-29 04:12:36",
+    "time": "2026-07-30 03:57:21",
     "news_title": "Taiwan Semiconductor Tops Q2 Targets On Leading-Edge Chip Demand - Investor's Business Daily",
     "source": "Investor's Business Daily",
     "impact_level": "Low",
@@ -66,25 +77,14 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzNFUDhLVlQ5bUVJZ25Rc09NaldVNEU0S0lmZUhvN1pMZzBoNlR2ME1wNkZoaHVvN1dWeDktNGVTUjJENks5Wkc0T2hjT3puSkNIQjBkNmlNZWJZQ1hIc2lGWGNoWHluc0pzd1YwcHVXbTB2SE9SNl8zZ2loTUY4SWlhNHpqV2t0dHBoZk5LU25LTWhD?oc=5"
   },
   {
-    "time": "2026-07-29 04:12:36",
-    "news_title": "Taiwan Semiconductor Manufacturing Company Stock (TSM) Opinions on AI Chip Demand and Earnings - Quiver Quantitative",
-    "source": "Quiver Quantitative",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTUMyaWFvV0ROaXJrNmhGN1VPRlVOaG10VS1VTmRIWFo3Skw2ME9WaW9WNEJxTVh3WEVEbVpyR21QVVloM3RHbWtuc0F5LWdDYVhseGhIb2Rhb2pnNWxLdXNJR0hGcWh6U01iTzJiUjA0Ym9FQ0NwMm5VSVpYVHdqN2pZUFNyYWJCcmxWczliY3ljcXJOUll4ZFpCaGYtYm92eWg4RlhoYXY1S2lHc183NG54NWNYUUdnOWJzMlgyZGJHdXY1SkdTRGd2UQ?oc=5"
-  },
-  {
-    "time": "2026-07-29 04:12:36",
-    "news_title": "Intel Corporation (NASDAQ:INTC) Given Consensus Rating of \"Hold\" by Analysts - MarketBeat",
+    "time": "2026-07-30 03:57:21",
+    "news_title": "Advanced Micro Devices (AMD) to Post Earnings on Tuesday - MarketBeat",
     "source": "MarketBeat",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZXlGUXFrV3I5NXFQX09QVzdOLUViUVVIQ1JqdlZwVjFKWXRCcWxocUVHTHNscmRpMTBSUU9OMTBBVGJxNVYyRHFPdUc4c2w0bVRHd25ONlJIRW5CZEhBOGZ1S1BHdWQ0Z2ttVjVPQlhXVnZSLXNWODh3TEUxUEUwNGRFbTR2OENVUUljLUFoZ0pUNXdNNWNpR0JnZHNLY293akpUTXo4RFV0cVBmb3RaOEZVdkM3SFNhaFJiTWZNQXV3dUE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2I1alV0U2hQMWFmaldXTjFLZ1JFbTI2RGR0ci1XSDlYOHNSV3o2Vk41dWF4M3E3RVN3VkFMbWl2MVJTNF9qWlFPdzRRWXFSOTRsZHpCYWJLRFIyckZ2LURqZW5WNmM4S2UyYnZmVGxxX2Y3YnlRZ3pwSWtMQWJuZFFlUzZlcE9XQ09Lck5qY0E4VkdrVGVXdG11TnY3dzFSRUs0Y1NOUlMwSWtN?oc=5"
   }
 ]
