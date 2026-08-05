@@ -1,90 +1,13 @@
 [
   {
-    "time": "2026-08-04 04:14:46",
-    "news_title": "AMD Q2 Earnings Preview: Wall Street Is Watching AMD's Server CPU Push As Lisa Su Eyes A $220 Billion Market - TradingView",
-    "source": "TradingView",
+    "time": "2026-08-05 04:11:04",
+    "news_title": "ไม่พบข่าวจาก RSS",
+    "source": "System",
     "impact_level": "Low",
     "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
+    "analysis_summary": "ระบบดึงข่าวจาก Google News RSS ไม่สำเร็จหรือไม่มีข่าวใหม่",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWWg1RG5ub1ZnUGpvbGxVVXgzd3JfVFBiZnZVUVFQcDJHZVJWZlRyTW54OUdyTlEzMDhEV1RWdTRjVzRaQVZuOTJYYlhPOVRtRG5RNkptQ1pudDFwdjJnUjhPZ2VSaXVTY0VmSmNXOVlzYW9GZXBaSFdOaHpaZjJrTHBWSndHdXB4Nm1McDhxc0FBM0dwY3l1R2ZCNWt4VWF6TWYteXF6eTlwRmpjWURVNlpwd0pXbTNZQm9ZSl9IenNSUFZ6NzFRM1pDZDlzRjgzTXFfNTRiVC0zUHk5WTdsMUNGSThGSVFWNlg3eDI4NU5xMURycXQ1Y2t3?oc=5"
-  },
-  {
-    "time": "2026-08-04 04:14:47",
-    "news_title": "AMD Price Prediction: Analysts Eye AI-Driven Upside Ahead of Earnings - 24/7 Wall St.",
-    "source": "24/7 Wall St.",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1RoWlFTT1JIRWNMdlppTEtvOTIxQVRYcUd1WGVTTzV6SkVQTG1ta09zQTFReURFSFhCUVJFd3BkX2I3alVzc3hJZnVIdEtCU0lCMnFIMm9TWDY0SlNzcTJmcVZzdEpzYkhrLXZ1R3NCMjloTm9TRVI3RFFMd2kxc2xiVy14UFVwS3J6R2VGM184aVJhVVZ0bWR6QnlfLUYxNTVsS29yZ1dXQkJwUm4xclZ3?oc=5"
-  },
-  {
-    "time": "2026-08-04 04:14:47",
-    "news_title": "SpaceX’s First Earnings Report Could Decide Whether Shorts or Bulls Have Control - MarketBeat",
-    "source": "MarketBeat",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRGJZMGd4dksxUW9DZUtkUFBkaGhmRGFIY1p1RDE5d3IyLWF5MnhnYjJwNFFzdnREWmI3VUxYYXY3MHVZTW4wTmRPMlRMbG5INnprNDRMOHN0bERlX3RPbDg3cW1YNHdVbjZ5UjY3VVRaejBVT1dMZkN2Vm90R25IZ0hxTGNIangtVlNtLUpkdUJJay05dTVBdHJ2VTkyVmg5cU1GZE1TNkVuUDVHQlFHZzJCVUdFMTg?oc=5"
-  },
-  {
-    "time": "2026-08-04 04:14:47",
-    "news_title": "Sandisk Stock Is Falling Monday: What's Going On? - Benzinga",
-    "source": "Benzinga",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVE5lZGhFVVM1WlhvTkd1XzFxdkdiVzVmc3g1ZTV6Rk8zLVFHbXRGQTdTTzU3dGUxMDBSWnZxUUN2a0xPWTFxOHBOaGRVaHJaTTdPZDVqSnJkT0dlLVFyY3dsZVJWNW00QzhDSXdtZnRWbGdLTzVJcS1paWNDb3FWb2FjSGpaUzlCaEU5WS1keDJabVI1bHA3T2hJdXFGaWFR?oc=5"
-  },
-  {
-    "time": "2026-08-04 04:14:47",
-    "news_title": "AMD Earnings Preview: Can AI Chip Revenue and Helios Orders Push Stock Above $600? - TradingKey",
-    "source": "TradingKey",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPejg4LVZFUVM1WGN2NmYxSkJUYWktT0xUODdtVTZleWxqUHNVaDlCZW5WZGNuc3hCX051eUxuaU5QdVBQaWRhSGtjQlBtc1dhOGwxT3R0M2tycVlIdm8xSVl6bzk3RnF2SGU4enpWWFRubl9pNEh1anpkYXFUN1BTMjJ2aGpTeFRsOVVFVEFmNG8tYUxzaHk3R2ZDaDJ5bFdyaDhvOG5GVjNFM2NoWHo4ei0wYXN0NmlJYXVxVXBUXzNWUHpxVm9JUS1uZTRGZFgyOTZzUjN6TzFEMExNcjUwbzdfZzFaUDQ?oc=5"
-  },
-  {
-    "time": "2026-08-04 04:14:47",
-    "news_title": "Benchmark reiterates Buy rating on AMD stock ahead of earnings - Investing.com",
-    "source": "Investing.com",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLXlHa3J1UWVZRWx4ZjFMREpqWjhoZlp3NDBVdVRVYklRVTRDWFB5WjlYWGhyOUFULWY4ejYyNzQtbEdTam9Yd2dWMWNxakRjbG5ucXFraVdsMUFhS0k4NG0zXzB1X3lib2llMXNyVUxONFQyVFRHQjhtcTVUdUhxajJ6MlBlRExtbktmbjBwT1NNSU9SdEFkRlJFQUZuSlNDZGtUYnl4N20wcmJUMk9mekRwZ3FKTk1Nd1gyMmQwZUhuT01OZkFIUnJ3?oc=5"
-  },
-  {
-    "time": "2026-08-04 04:14:47",
-    "news_title": "Nvidia Stock (NVDA) Opinions on AI Spending and Earnings Outlook - Quiver Quantitative",
-    "source": "Quiver Quantitative",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWEhsX3I5VmdvSjhNMlVsZWhPem9fT1Z3eU9KM2NZSDRuUXk3RHJtZzFhdU85QmhRcmYxRUNnZkhDRGw3NUxQU1pOZVgteGFUd0tBS2o1SWF6VGhuRTBLTk9XSENvQy1ETl9raVh1b0VOWnZRaXFuQy1qQVRFbkRORzkzUUtfbUlaNVhMRVo4V2pFczlseXR4ckE4Snh0WlE4NEhN?oc=5"
-  },
-  {
-    "time": "2026-08-04 04:14:47",
-    "news_title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Google Rebounds After Sell-Off - Investor's Business Daily",
-    "source": "Investor's Business Daily",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRekF6aWZNLTRUOGNzcTRQVjdBb2M1c0Fia21VUTM1QWw2UXRodw?oc=5"
+    "url": ""
   }
 ]
