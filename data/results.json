@@ -1,39 +1,17 @@
 [
   {
-    "time": "2026-08-06 04:12:56",
-    "news_title": "SpaceX Stock Dives. Analysts React To Earnings Beat, Shift Price Targets. - Investor's Business Daily",
-    "source": "Investor's Business Daily",
+    "time": "2026-08-07 03:49:39",
+    "news_title": "SanDisk Stock (SNDK) Opinions on Earnings Report - Quiver Quantitative",
+    "source": "Quiver Quantitative",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdDZ5ZGNEdW5BOC0zYkxWVVh0Q1lmcHRkN19FT2JWaEw0ZVlOUnNXMDlQNFVPQndFd0lPX2ZpbzJueGNDNE81THJQZV9pV2RVN1BlMGdUcXI4bUJZN0M0ekZ6TnRpZFFQOGxYbmlzbTdLNVJkSGVkWmpsSjNIR1cxc01SbUJuNm51ck00aUJxZlFqWkpQQVAzclUtaDhhVm9tQmVvY3lQX0EyM000TTJmRGVzVGJ1TjdLZEduVVVoTFZuNzlv?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjNKX01uYXRYLTNrRjh6c2c4U2o4VXJMVnJsUWVYQTBqU2hlOGNKT094bmhlMnpRZ0xoVTZWNER1Njh0OGhWUUgwMTF0dDkzaTBDN19oekNXZWgydS1xZWpHcHJwUXVTMkhMZElzYXdnLVVSYkk3VWY5YkJSMEhHUkNGbEplQ2xhbUZOb3Zn?oc=5"
   },
   {
-    "time": "2026-08-06 04:12:56",
-    "news_title": "7 Wall Street analysts explain why you should buy the post-earnings dip in SpaceX stock - Business Insider",
-    "source": "Business Insider",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON2tpcWUwcXJrWkFPNDNsZjZ6cTh3aHhSM2ZBZWtCRDFKQXBrak5nNUhEbVlZeFM4Sno5azlEcHQ5N3Q2NnZsbHg2dlFOOXllQzdnem1Ual9nUV95OHpKcGNlZEtNa3NIUS1RREJLczFwZmJ3LVFRbkYyV25jUzdSMEp1V3M5WXJ4SElOQjZCUEFDT2xfQ1pFQ1ZOdTgtRkV6?oc=5"
-  },
-  {
-    "time": "2026-08-06 04:12:56",
-    "news_title": "AMD Earnings 'Were Good,' Says Analyst Even as Stock Sinks 9% After Hours: Wall Street Wanted a 'Blowout' Forecast - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXRsQklURDZWOGc4ZHhfQzZmMDFrY3VEYUFKY0J1bTAtbXZPUm5IWGV4ZVBZcm9jQ2YwdlNFYndSaDMxNU1iRGIxaVNldHphWmMzT2xLOEprcWJtWG1VYmQtV3IwWlZ2TTB6ZTlFYnNONTVIa0x6elY1bF9pR19MNjNwbWJIZjVMSjNTOFoxdTY4WndrMkYw?oc=5"
-  },
-  {
-    "time": "2026-08-06 04:12:56",
+    "time": "2026-08-07 03:49:39",
     "news_title": "SPCX Stock Quote Price and Forecast - CNN",
     "source": "CNN",
     "impact_level": "Low",
@@ -44,47 +22,69 @@
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mNFpQdmpQSHpfbjh0RmFkcGxLQ1d1dWxoeUoxMTUwM0pnRmYwRDVjMFlvdVNKQm85LUsxSjNVZFlSZm9iSmYwRkJfSVhlNmtK?oc=5"
   },
   {
-    "time": "2026-08-06 04:12:56",
-    "news_title": "3 reasons AMD’s stock is falling in the face of its latest earnings report - MarketWatch",
-    "source": "MarketWatch",
+    "time": "2026-08-07 03:49:40",
+    "news_title": "SpaceX Stock Dives. Analysts React To Earnings Beat, Shift Price Targets. - Investor's Business Daily",
+    "source": "Investor's Business Daily",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNDNxdklpcDNyTVZITG10clMzcDI1bERtTk1IQVZDRGRHQ3czaTViSXROTlVjRFJjSlNrLWNNMDNKOFpZM09KVFhqTkdDUmZ5UEZTdG1Id2JrazA4UGNIdENNZVV4b3BiMHRDcUhIU2dHbVlwVjRYWkxMU09YWEtsQlN0ZUp3SUZJMlR1b1d2WGtMck0taEFUY2dBVk9wazVzcVBRZi15ZVdmNzVKUjlDckl4ZjRmOHc?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdDZ5ZGNEdW5BOC0zYkxWVVh0Q1lmcHRkN19FT2JWaEw0ZVlOUnNXMDlQNFVPQndFd0lPX2ZpbzJueGNDNE81THJQZV9pV2RVN1BlMGdUcXI4bUJZN0M0ekZ6TnRpZFFQOGxYbmlzbTdLNVJkSGVkWmpsSjNIR1cxc01SbUJuNm51ck00aUJxZlFqWkpQQVAzclUtaDhhVm9tQmVvY3lQX0EyM000TTJmRGVzVGJ1TjdLZEduVVVoTFZuNzlv?oc=5"
   },
   {
-    "time": "2026-08-06 04:12:56",
-    "news_title": "AMD’s Post-Earnings Drop May Be the Opportunity Investors Wanted - MarketBeat",
-    "source": "MarketBeat",
+    "time": "2026-08-07 03:49:40",
+    "news_title": "SNDK Stock Plummets Premarket: Analysts Cite 'Muted Pricing' Guidance Despite Record Revenue, $14B Buyback Plan - stocktwits.com",
+    "source": "stocktwits.com",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUpsMVRqbzJxVGpBd2J2a3RTeUFyNm5yd1R1VFpqRXNRVW1USGxOZ29yNmpCd2xqNVVhTXlRV01xd0ZQUEpGTm44TnYtVzIxNU1fbkpRTnpNaTlRUHVjcGRtZWVPMkhzOFVDWElpWHRzX2d6QXZoLXdRdVE5cG4tNGR6S0hwQUE3MW1WYi1HRVFLb0JmdktrZjJjSHR6RjZYMmc?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN2l0Y0lPa1ZOVnRwc0Y1dW9WYzJneVFLcm9PTWFHRFdFX1VnYmo4d3Y1SjVsT1Zob3pJclIxaUx4b2c0Yk1CUTU0NjB6UGZxZHpXc3BfV0VLaDB4T0Jha3dBZm5YNmpfdDNxSnZKZExabHFETDNuYXpWOVJfTTNFQnE5TFFWOW1aNEU4NnRNd0ZKVGlzRE84dE52bEIzTWN2cThuU1RHY2hpN1BLR0Y2SUtWQi1ZeFJzWncyclVyNkJJaU1WOVlzZXFwNmFLTVV0dU5jbW1ESQ?oc=5"
   },
   {
-    "time": "2026-08-06 04:12:56",
-    "news_title": "Sandisk Stock Rally Hits the Brakes As Traders Lock in Gains Before Earnings - TradingView",
+    "time": "2026-08-07 03:49:40",
+    "news_title": "7 Wall Street analysts explain why you should buy the post-earnings dip in SpaceX stock - Business Insider",
+    "source": "Business Insider",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON2tpcWUwcXJrWkFPNDNsZjZ6cTh3aHhSM2ZBZWtCRDFKQXBrak5nNUhEbVlZeFM4Sno5azlEcHQ5N3Q2NnZsbHg2dlFOOXllQzdnem1Ual9nUV95OHpKcGNlZEtNa3NIUS1RREJLczFwZmJ3LVFRbkYyV25jUzdSMEp1V3M5WXJ4SElOQjZCUEFDT2xfQ1pFQ1ZOdTgtRkV6?oc=5"
+  },
+  {
+    "time": "2026-08-07 03:49:40",
+    "news_title": "AMD Q2 Earnings Preview: Wall Street Is Watching AMD's Server CPU Push As Lisa Su Eyes A $220 Billion Market - TradingView",
     "source": "TradingView",
     "impact_level": "Low",
     "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ON21lU2tlWFR0WUdtSEI2MzJqbHUwT0FOYUx0Mk5ocTU5UVFBU1AwR3g2OVpIU3JJZkl1VFllekUtaF9nTGlaMnRuWndSTVlwendlTzdkalFhb19JSU5OcTVRRXdHNy1m?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWWg1RG5ub1ZnUGpvbGxVVXgzd3JfVFBiZnZVUVFQcDJHZVJWZlRyTW54OUdyTlEzMDhEV1RWdTRjVzRaQVZuOTJYYlhPOVRtRG5RNkptQ1pudDFwdjJnUjhPZ2VSaXVTY0VmSmNXOVlzYW9GZXBaSFdOaHpaZjJrTHBWSndHdXB4Nm1McDhxc0FBM0dwY3l1R2ZCNWt4VWF6TWYteXF6eTlwRmpjWURVNlpwd0pXbTNZQm9ZSl9IenNSUFZ6NzFRM1pDZDlzRjgzTXFfNTRiVC0zUHk5WTdsMUNGSThGSVFWNlg3eDI4NU5xMURycXQ1Y2t3?oc=5"
   },
   {
-    "time": "2026-08-06 04:12:56",
-    "news_title": "Intel (INTC) Stock Jumps 11% After Earnings Beat: Can the Rally Continue in 2026? - TradingKey",
-    "source": "TradingKey",
+    "time": "2026-08-07 03:49:40",
+    "news_title": "AMD Price Prediction: Analysts Eye AI-Driven Upside Ahead of Earnings - 24/7 Wall St.",
+    "source": "24/7 Wall St.",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGt1YVplYzdZanQ1NXVxZF83NGx2UENYeDVaU3ZHQm9IaWQybVlzX0VZeGZUQXAxcGdRNXZ3a2NaYU0wNkZ2d2E4RmxOeUhrR2lpMVhzQmJseWpGUTZOZXl3V2VUXzk3MGlkM3d1MS1hbXVxUy0teU0zcUpvdDRlbldOMDc1NEpWaWtBUWl2M2cxU1BpNlBUYVdyNERjY3ptendrdjMzd0llVkxicW5QR1AxbVNHVTBFTWRPSFlreDFadw?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1RoWlFTT1JIRWNMdlppTEtvOTIxQVRYcUd1WGVTTzV6SkVQTG1ta09zQTFReURFSFhCUVJFd3BkX2I3alVzc3hJZnVIdEtCU0lCMnFIMm9TWDY0SlNzcTJmcVZzdEpzYkhrLXZ1R3NCMjloTm9TRVI3RFFMd2kxc2xiVy14UFVwS3J6R2VGM184aVJhVVZ0bWR6QnlfLUYxNTVsS29yZ1dXQkJwUm4xclZ3?oc=5"
+  },
+  {
+    "time": "2026-08-07 03:49:41",
+    "news_title": "Top Wall Street Forecasters Revamp Sandisk Expectations Ahead Of Q4 Earnings - Benzinga",
+    "source": "Benzinga",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZUEzOVpyREVqWExBM1ktZVpNQnR2T3NMN1dMU3Y1RlZBbjlCRnNxYkY0MVdqcG03SnQ3aVJnaG5oc0UxQkhlaGp3N3h2R3ZEdVJHZFVRcnV0SGt6RndjTTZLY2VQNVl5YnVXSm1pMFhnM1E2dUxad2dxWWVvZE1LVmlhWVVKX2I2Q0JXbGxZb2RPbHhJOGdCOEtJZUFmeHAyRVdROTk5Zk1QN213bEhoR2dQRkdsWk1zZ2ZKaHdub2hrdHRqZTExMXJnQ0x5NnRURVlaZjJMNnpCMnN6aTRvTzRya1JyUQ?oc=5"
   }
 ]
