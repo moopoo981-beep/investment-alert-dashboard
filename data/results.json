@@ -1,6 +1,50 @@
 [
   {
-    "time": "2026-08-22 02:15:43",
+    "time": "2026-08-23 02:23:17",
+    "news_title": "Nvidia Earnings Preview: What's Needed To Drive Nvidia Stock Higher? - Investor's Business Daily",
+    "source": "Investor's Business Daily",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYUdyb2hwN1RNYi1VY3JTMmZucFVkUkQ2aDY1eTFyRXNIa29DaXd1R1l4TkpXcnoyNWdOU2NBQzU2dFJneVQxbWZxR2JPSU15Y2NJNE4yeF8wdXdGNXFDY09Jd1pHcVhTWnFwdlBLVVRIeFVPLTk4S3VGaWZfVUxEQkVyMTJGcEhDMUtiZlJyRHBvV25qNnZR?oc=5"
+  },
+  {
+    "time": "2026-08-23 02:23:17",
+    "news_title": "NVDA Stock Flattens As Retail Turns ‘Extremely Bearish’, But Wall Street Flags $20B CPU Opportunity Ahead of Earnings - TradingView",
+    "source": "TradingView",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZ2dIR01MUTYzZVNZc21LUDQwQmZzOUtsRG9hMWpCVFVPb2VLdGVXTTh4d19JaTJSdHhxOWw4OFNkZEZhU3FaTVFva3IxZnAxQzBFaE5VOTc3UG9hZnE4cHNqNEZRNnFCbjhxV1lpS1EtU2RNY2VCMUZ3VnNuUElCSXpjdlIwaWRvTHAyTXY5M2o4M0pwUWgxZXBvNXhHWnJOQ05MTFdQQlJVaXVvendDSVlXUlVRQ0NDR1BiTkJUTGNsMUpBamlIcExDdnhseTlnYlFQNmNEendwYW9XTGxyQ25na0o0Snlwci1LaGRyZlIzVmgxaGY3VGN1ZTNBcWE2ZDln?oc=5"
+  },
+  {
+    "time": "2026-08-23 02:23:17",
+    "news_title": "AMD Investors Must Watch Nvidia's Earnings Report - Intellectia AI",
+    "source": "Intellectia AI",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVUl0MnVkbzc5WEl1Z2JXX3VDQzJXbmFCcnhIRGZheEZDOHZoVU1YVERsMFZ0eDJnMTJxSzQ1UnNyOE4wV3lEV2tFUFdfRmROZTltdGx4LXp1MjZYX3A5NmFRejJMMGh3bm5PUnZwd29scGxmaW5RaGx3TmpoSm55SndweGp3VEQ5Zmc?oc=5"
+  },
+  {
+    "time": "2026-08-23 02:23:17",
+    "news_title": "Alphabet Stock (GOOGL) Opinions on Recent AI Developments and Earnings - Quiver Quantitative",
+    "source": "Quiver Quantitative",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVo4ZFRjRVJQN1pFbVZXT05rcXhBSllaM2ZJTExWdmhLZWxWRTQ2b1ZmU3ZWWjF3aGNEV2lQeDJudU1yWWhza2JBOFRCU0pYYnpIVmxuN01Qb0JWUm9rNW04czRCOHhrOTBCeDA0UHhoLXVwNXdaN2g0U1UyTDB5WlhqMGU3akZ6cHNISl9sVHBtekk4TlVPaURuZUFKVWRseXd6UURCRWJhcXc?oc=5"
+  },
+  {
+    "time": "2026-08-23 02:23:17",
     "news_title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Eli Lilly Tops Buy Point - Investor's Business Daily",
     "source": "Investor's Business Daily",
     "impact_level": "Low",
@@ -11,29 +55,7 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRekF6aWZNLTRUOGNzcTRQVjdBb2M1c0Fia21VUTM1QWw2UXRodw?oc=5"
   },
   {
-    "time": "2026-08-22 02:15:43",
-    "news_title": "NVDA Stock Flattens As Retail Turns ‘Extremely Bearish’, But Wall Street Flags $20B CPU Opportunity Ahead of Earnings - TradingView",
-    "source": "TradingView",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZ2dIR01MUTYzZVNZc21LUDQwQmZzOUtsRG9hMWpCVFVPb2VLdGVXTTh4d19JaTJSdHhxOWw4OFNkZEZhU3FaTVFva3IxZnAxQzBFaE5VOTc3UG9hZnE4cHNqNEZRNnFCbjhxV1lpS1EtU2RNY2VCMUZ3VnNuUElCSXpjdlIwaWRvTHAyTXY5M2o4M0pwUWgxZXBvNXhHWnJOQ05MTFdQQlJVaXVvendDSVlXUlVRQ0NDR1BiTkJUTGNsMUpBamlIcExDdnhseTlnYlFQNmNEendwYW9XTGxyQ25na0o0Snlwci1LaGRyZlIzVmgxaGY3VGN1ZTNBcWE2ZDln?oc=5"
-  },
-  {
-    "time": "2026-08-22 02:15:43",
-    "news_title": "Alphabet Stock (GOOGL) Opinions on Recent AI Developments and Earnings - Quiver Quantitative",
-    "source": "Quiver Quantitative",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVo4ZFRjRVJQN1pFbVZXT05rcXhBSllaM2ZJTExWdmhLZWxWRTQ2b1ZmU3ZWWjF3aGNEV2lQeDJudU1yWWhza2JBOFRCU0pYYnpIVmxuN01Qb0JWUm9rNW04czRCOHhrOTBCeDA0UHhoLXVwNXdaN2g0U1UyTDB5WlhqMGU3akZ6cHNISl9sVHBtekk4TlVPaURuZUFKVWRseXd6UURCRWJhcXc?oc=5"
-  },
-  {
-    "time": "2026-08-22 02:15:43",
+    "time": "2026-08-23 02:23:17",
     "news_title": "[AMD Earnings Outlook] Will AI Growth Surpass the Options Market's '10% Barrier'? Overcrowding of Bullish Positions Also in Focus - Moomoo",
     "source": "Moomoo",
     "impact_level": "Low",
@@ -44,18 +66,18 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWJDZjhKQWtsc0xzMDRaVTRmTHFBUFpvS3FERWtvWEZHbEFHakk0dnhCZWlSbXJ3bzFrOGRuSjgzZExUNDFqWHMta3MyX21feFM4QUJGUzBKdGl3S1kxRFhjVEd6WjgyRUdTX0x1TjlNQ0M2RHBYMy1YbjVxeEJBZ0ZONW9QMlFWMW55ellHSE5lNTdOd2VPSmk5cTdrUmZ5YWFuNGxraWRiRklCcS1OOXV3?oc=5"
   },
   {
-    "time": "2026-08-22 02:15:43",
+    "time": "2026-08-23 02:23:17",
     "news_title": "AMD Price Prediction: Analysts Eye AI-Driven Upside Ahead of Earnings - 24/7 Wall St.",
     "source": "24/7 Wall St.",
     "impact_level": "Low",
     "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1RoWlFTT1JIRWNMdlppTEtvOTIxQVRYcUd1WGVTTzV6SkVQTG1ta09zQTFReURFSFhCUVJFd3BkX2I3alVzc3hJZnVIdEtCU0lCMnFIMm9TWDY0SlNzcTJmcVZzdEpzYkhrLXZ1R3NCMjloTm9TRVI3RFFMd2kxc2xiVy14UFVwS3J6R2VGM184aVJhVVZ0bWR6QnlfLUYxNTVsS29yZ1dXQkJwUm4xclZ3?oc=5"
   },
   {
-    "time": "2026-08-22 02:15:43",
+    "time": "2026-08-23 02:23:17",
     "news_title": "SpaceX’s First Earnings Report Could Decide Whether Shorts or Bulls Have Control - MarketBeat",
     "source": "MarketBeat",
     "impact_level": "Low",
@@ -64,27 +86,5 @@
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRGJZMGd4dksxUW9DZUtkUFBkaGhmRGFIY1p1RDE5d3IyLWF5MnhnYjJwNFFzdnREWmI3VUxYYXY3MHVZTW4wTmRPMlRMbG5INnprNDRMOHN0bERlX3RPbDg3cW1YNHdVbjZ5UjY3VVRaejBVT1dMZkN2Vm90R25IZ0hxTGNIangtVlNtLUpkdUJJay05dTVBdHJ2VTkyVmg5cU1GZE1TNkVuUDVHQlFHZzJCVUdFMTg?oc=5"
-  },
-  {
-    "time": "2026-08-22 02:15:43",
-    "news_title": "SpaceX Earnings Highlights from Cathie Wood's ARK Invest - SpaceX (NASDAQ:SPCX) - Benzinga",
-    "source": "Benzinga",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaElweGNINFRGSkJLWDRRQ2Z1YUxMcDExNmxrWHVCblRDRmtHNnkzNzF3N3pDbFNWbzdfRWg4ZUVSSnBudEt5eW1rTVFUbkFmdHRZZTNMbUlqdFBqTUgwck1XYmhyZzNXQURWU1ZFSzROMEFtQndnZ181WkM0VFBFdFhXSGg0bHB1X2RuM0l1ZzJDbTZndlpwQmFJUnZ6bmloTDlWajctVm13b2pLeklHVnhGcWViWnVwSlNfZGw0MXpUVWZvdHFFM2ZLQQ?oc=5"
-  },
-  {
-    "time": "2026-08-22 02:15:43",
-    "news_title": "SpaceX Reports Earnings Tomorrow. Here's What Wall Street Expects and What You Should Pay Attention To - The Motley Fool",
-    "source": "The Motley Fool",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSUdvd1VNOE51WjdmM1NGNG82dU9ZcWpnN2dMNy0yaXQtT3hDY3duTFBxTlRUQUt3cm85ZGJkUXZuaF9ld1NUcmdfcWRHY051SXllZFdqQncxMm1GTUR0czFSSlB3dzhpRWh5Mkh1QkUwcG9URmllTTdUUW9zdm9WN1NiaVRzRzNYR2VIQWpYOGRvVXNmSzNGTjB3VG9sVDRtWFR1bXdDam5GRzRDM0dLUlFR?oc=5"
   }
 ]
