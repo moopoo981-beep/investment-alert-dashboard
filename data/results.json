@@ -1,19 +1,19 @@
 [
   {
-    "time": "2026-09-12 05:26:42",
+    "time": "2026-09-13 05:42:34",
     "news_title": "Intel May Raise Chip Prices 10% and the Stock Took Off. Why Most Analysts Still Refuse to Buy. - 24/7 Wall St.",
     "source": "24/7 Wall St.",
     "impact_level": "Low",
     "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUUF0WWN1UVU4bGZ3bERLeVhobUpPX0JEVXpuaGdsRnFfSV9aeG9Vdzh2R2kzdXNLM3VfTlNmMWh6RmtQd1NRekRBaHA3eS1WZ1BKRERPUFU2T1owWk5OWW1kZU43ZTg4YkNIbEczQUVoel8yMmc4ajFiMXNVdC1lY2sxZlNoNkp1LXdMWlR0NFY2REl1c1h4MXp2M2NjV2hNX1dVcC1QdkhKekNPMDlfOFVra3ZPZDR6MDFJVG1qNDBQQ2VYMGI0UU5vQU9Kb21MMmRF?oc=5"
   },
   {
-    "time": "2026-09-12 05:26:42",
-    "news_title": "Intel (NASDAQ:INTC) Stock Rating Upgraded by Piper Sandler - MarketBeat",
-    "source": "MarketBeat",
+    "time": "2026-09-13 05:42:34",
+    "news_title": "Intel (NASDAQ:INTC) Stock Rating Upgraded by Piper Sandler - marketbeat.com",
+    "source": "marketbeat.com",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
@@ -22,51 +22,29 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOal9jSGo5X0xkRjU5eVc5RlFwblJTd3hNYzZIWTZzSEFVLWp1dW0xZU55Vm9xZmJHUUx0UmJEMXh3SDQ0ODZjSmx3anVqUXBhZVNTamVYcG5sbUVJb3lTSVR2VGZEeVhFM2tyYlVzU0FBeVJRMFhwaTh6WEFMMlczekhtUUdGWFAyVS14cVp3RUdkcExuS19fY3pJanN0S2tHam9ZVDZSTkdoTmIwMEY4SlhpY0JDQ3JBOUE?oc=5"
   },
   {
-    "time": "2026-09-12 05:26:42",
-    "news_title": "NVIDIA Stock (NVDA) Opinions on Recent Earnings Beat and AI Demand - Quiver Quantitative",
-    "source": "Quiver Quantitative",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYWRja3d2NDBpVHZGZWtQYmNKN2RCVkpmWUZTSVExc1dKaDRFRmpLVWg0M3ZlWE5rLThVbndNUXJUUHNKTmRBVzJsU0N2R1BCTThWYWM1RHRCSGctN2Y2VGplVEVEWndlV2RvZzJvek1fQ3ljOHJ4T3RGOGRySUxOTUwtRDNoWkVVbFMyZkZwYnJDb25aSGFnLTBmMGo2RlNjczAyTzNR?oc=5"
-  },
-  {
-    "time": "2026-09-12 05:26:42",
-    "news_title": "Nvidia Earnings Today: Analyst Expects ‘Monster Beat,’ Eyes 3 Key Updates From Jensen Huang That Could ‘Move The Needle’ For NVDA Stock - Yahoo Finance",
+    "time": "2026-09-13 05:42:34",
+    "news_title": "AMD Earnings 'Were Good,' Says Analyst Even as Stock Sinks 9% After Hours: Wall Street Wanted a 'Blowout' Forecast - Yahoo Finance",
     "source": "Yahoo Finance",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1JCU2swWDF1Wi04N09CUDlLMkQ5aVdnLUh4YTJIRlNpcUNxNlBYQVEwcDN2b3JXczNwZjhESldsLVE2TmJINDhnMmtlbFc0d2lZajdFT0Z2a1Z5RmxmREMwQmJWNTU1eFZJclBJTkdpNjhzLUZLT1ZTWVNaUy1RTGpIczB1NVRKdlphOC0zbHotSFBtS1F3SDBrYV9qQXhmWXVPWQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXRsQklURDZWOGc4ZHhfQzZmMDFrY3VEYUFKY0J1bTAtbXZPUm5IWGV4ZVBZcm9jQ2YwdlNFYndSaDMxNU1iRGIxaVNldHphWmMzT2xLOEprcWJtWG1VYmQtV3IwWlZ2TTB6ZTlFYnNONTVIa0x6elY1bF9pR19MNjNwbWJIZjVMSjNTOFoxdTY4WndrMkYw?oc=5"
   },
   {
-    "time": "2026-09-12 05:26:42",
-    "news_title": "Intel May Raise Chip Prices 10% and the Stock Took Off. Why Most Analysts Still Refuse to Buy. - 24/7 Wall St.",
-    "source": "24/7 Wall St.",
+    "time": "2026-09-13 05:42:34",
+    "news_title": "NVDA Stock On Track To Break 7-Day Losing Streak – Analyst Calls Nvidia’s Valuation Discount ‘Fundamentally Illogical’ Heading Into Earnings - TradingView",
+    "source": "TradingView",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWEdSQm1iZ1owY09MZFlqbGViNmEwZDZra0ROSTg4cFRpLXZMZloxNzNrVWROeS1XUGF4ejB5elRTWjJBRE41cURzNXBCbVNNWkM5YnQ2SG9ZVnpRWXZTWUlGRFFQY3hUM2JwbVUyM3d6Smx3UEx6enZZVW5ORWZoQVFJamRzRlg2dVNzcVBsWGpTTmRBM2JMZWg3aVlpVnJYZkExLW9HU3FrdUJDNE1LTE1VNmw5QTRaQlVOSGh0TThLQUJxdGpvVzdXVWNIc1Nx?oc=5"
-  },
-  {
-    "time": "2026-09-12 05:26:42",
-    "news_title": "NVDA Stock On Track To Break 7-Day Losing Streak – Analyst Calls Nvidia’s Valuation Discount ‘Fundamentally Illogical’ Heading Into Earnings - es.tradingview.com",
-    "source": "es.tradingview.com",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONk9WUUJCaU5TeFoxWlBuemVXS0FMVEF5YWZrSHk1TjJjTTJLcVBCa09kTXZwM0h6YWN3ZzdYdGRKN2dKWjBsVG9EWGUydm9qZnMtVUVIY0JBWmJCcUZFT3hCczdUMFVSNm1DQkpYaVJRa0hyTExZTzFxeVp4SnNiYnM2a0tFZXJNbnhFbk0xVzkxTDJvSWpldUxIUWpfdFY1UXY4UlJXMjI4a0hqWXh3SVZZRHZYZWJ0elpyU1JuOVZGd09GdEVBXzYxSG1GTzdsdzdlaVNwT05zTXlsN1JMd3daS0hJOFJYdHkxWTV4V192NDhNSllxVkx3VHFfR1VJdERKUl9kQm1TSVpYY05xdldqV05OdGQ0cXJaSWE5ckNQUQ?oc=5"
   },
   {
-    "time": "2026-09-12 05:26:43",
+    "time": "2026-09-13 05:42:34",
     "news_title": "SpaceX Stock Dives. Analysts React To Earnings Beat, Shift Price Targets. - Investor's Business Daily",
     "source": "Investor's Business Daily",
     "impact_level": "Low",
@@ -77,7 +55,29 @@
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdDZ5ZGNEdW5BOC0zYkxWVVh0Q1lmcHRkN19FT2JWaEw0ZVlOUnNXMDlQNFVPQndFd0lPX2ZpbzJueGNDNE81THJQZV9pV2RVN1BlMGdUcXI4bUJZN0M0ekZ6TnRpZFFQOGxYbmlzbTdLNVJkSGVkWmpsSjNIR1cxc01SbUJuNm51ck00aUJxZlFqWkpQQVAzclUtaDhhVm9tQmVvY3lQX0EyM000TTJmRGVzVGJ1TjdLZEduVVVoTFZuNzlv?oc=5"
   },
   {
-    "time": "2026-09-12 05:26:43",
+    "time": "2026-09-13 05:42:34",
+    "news_title": "Alphabet Stock (GOOGL) Opinions on Recent Earnings and AI Outlook | GOOGL Stock News - quiverquant.com",
+    "source": "quiverquant.com",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTd0VkI5TzhTQWFxcjVfQy16V0V1c19IeTl5Vm43YndLUWFuUlgweEN6Z0VabXVBQTlXNnZjQjlxVGpGWkF4dkhScUJEdmhHOHdDcXo2bUIyanJ4TlJfNnE1N0tzdk9DRlk1cEJGOXV6ejIwT09zalhZd0FvX3ZFUUtVTnJHbWJjU2RuOUg0eDNBUW9KOXRsSU5sMkVHYjZVWEdoYg?oc=5"
+  },
+  {
+    "time": "2026-09-13 05:42:34",
+    "news_title": "AMD Has Something Nvidia Doesn’t. Is the Stock Finally Ready to Break Out? - 24/7 Wall St.",
+    "source": "24/7 Wall St.",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakkycG00WmdNZlgxM2QwZmRqWmxmV3pySTJOVnFiUmJxRW5tLTJnb3JITUtkYS1lMHMzWUdrUV91Nm03aW81akR0b21vNm9ON09sNmxBNHNZNFo3amszMkt4VGRQb1JfeTJySTMxdU5vVzdsUFBnUzhoR0hiV0FhWGVQR3V6ckowdzJkeXZXQWRHUjJzSGhScFpIS1JWUmJPRnkwNEdiZVFjZjFuMTR6MTRaVGJRZw?oc=5"
+  },
+  {
+    "time": "2026-09-13 05:42:35",
     "news_title": "Nvidia Earnings Preview: What's Needed To Drive Nvidia Stock Higher? - Investor's Business Daily",
     "source": "Investor's Business Daily",
     "impact_level": "Low",
