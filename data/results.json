@@ -1,17 +1,28 @@
 [
   {
-    "time": "2026-09-22 05:53:48",
-    "news_title": "Nvidia Earnings Today: Analyst Expects ‘Monster Beat,’ Eyes 3 Key Updates From Jensen Huang That Could ‘Move The Needle’ For NVDA Stock - Stocktwits",
-    "source": "Stocktwits",
+    "time": "2026-09-23 05:33:20",
+    "news_title": "AMD Stock Forecast After $1 Trillion: The Easy Upside Is Gone - techi.com",
+    "source": "techi.com",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb2gtZzhoS2pQOTVwU05fMXY0TkVrMWZmVEVlcjgyZmNsa1FMWm5NOVNXQTZzRVFxdENRT2FUUDhOZ2k5bmJwVXpMaG5XLW1HUDh3RzRJUnJpRDYybmhkZER5Vk1zWGZqU2hGMHRyTVJVeHdzaUtqQmpnbWdJUVRzaHdOZUl2cmJhbVlWSGttd3RsNklpUVI4NktCWVlYSDJJa1RTVWR2VGdIbmN5SnN1UmNHbk0yV1RPZnI5bGMxQTJYX2xFTTFz?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1QXEteWxBYVB1UlJBVnVVeUt4YVpRa3JualVndGxjekV3LUNocFF5LWRCTkxqQm96X09HWUZtODE0amJ2ZHlZaFlMN2NyY2NkMjVaejBXVVN6T0NiRm1IakNvUEI1Y29MVlRwYnpIT2c2NFc4?oc=5"
   },
   {
-    "time": "2026-09-22 05:53:49",
+    "time": "2026-09-23 05:33:20",
+    "news_title": "Top analyst sets outrageous Intel stock target ahead of earnings - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWhZVlAtU1AwUFEycWVwLWlJN3BsLWRCWTdMTEZ3UWNkbzNqNDNqNVYtem1YMlZjRkNLRXQtSHJtb01pS1MtbWtzSml3N2xKVDVVdVl2YzFxemxGcDNRc1BGYzI4RlVVVUhOYmhTdkF0MHRZQ0hVY3RsSG4tRVhOZXFuZGlDTldKSE9ickxBdzFTbzlQSFZNdW1Vdm5kQjg?oc=5"
+  },
+  {
+    "time": "2026-09-23 05:33:20",
     "news_title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Cloudflare Hits Buy Point - Investor's Business Daily",
     "source": "Investor's Business Daily",
     "impact_level": "Low",
@@ -22,20 +33,9 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRekF6aWZNLTRUOGNzcTRQVjdBb2M1c0Fia21VUTM1QWw2UXRodw?oc=5"
   },
   {
-    "time": "2026-09-22 05:53:49",
-    "news_title": "AMD Stock Gains After Upgrade: Analyst Sees ‘Strongest Combination’ Of Earnings Leverage, Data Center Gains - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTFRsTFdiRko0NzJ1ZVMtSmpqOFkyNHFjQUVfa1BjcS1lZWhBbGk5ZkJKRjNtbHMxWG95TTZGWUJtYXEzYnJYRXVTZ0VFTXkzS25SNW5WZHQ2SlRac2I1ZkhrSDJBeHg4RDBCSjZBV0FWSjRvS21NTXQyQU5QNHJZSDV4bmVIcGttX3NzTHItYzJ6NTJqUV9naHFwMEw?oc=5"
-  },
-  {
-    "time": "2026-09-22 05:53:49",
-    "news_title": "Here’s What Wall Street Analysts Are Saying After Nvidia’s Earnings - investopedia.com",
-    "source": "investopedia.com",
+    "time": "2026-09-23 05:33:20",
+    "news_title": "Here’s What Wall Street Analysts Are Saying After Nvidia’s Earnings - Investopedia",
+    "source": "Investopedia",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
@@ -44,7 +44,7 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ29xYXhSbHRfY1JxcjFsb284dzEyTWpFM0ltOWJULVEtS1lwb0hzQjBJM1J2UndKMGRMSlBObVE1SXFGOHNkVjJ5TDhmRjMyZ2NYcFp4SDRMYWRFYlJ5MVB5QXJIVXVsaHE1b1Q1TVF1U0ttbS0zRGdNV3E3SmctbG1NQWxBYWtYcW53eEtfd242TURaOVZfUDVZMDlRcGxrNEpBZGZ2ekNxNVE?oc=5"
   },
   {
-    "time": "2026-09-22 05:53:49",
+    "time": "2026-09-23 05:33:20",
     "news_title": "NVIDIA Stock (NVDA) Opinions on Post-Earnings AI Growth Prospects - Quiver Quantitative",
     "source": "Quiver Quantitative",
     "impact_level": "Low",
@@ -55,36 +55,36 @@
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjhLRXY4T1p0RnlSU0xKcTB4aEJfQ2pyX1Zxb1RyRWk3UTBjWm5HMGtBZkdYMy1PZmZuaklHTXBTTVdLZHZNMmhjMEpJY08xZUxXbFNHNGpJQkVJU2xPNTE5YVRBT3Q5U3c5V3BRYnVaaWVmQ3hzU1VZYVBtbld5NjVIQzYybVRiR00yUUwwd1RSbzQ5U3BxaWhHa29WTkJHUFI3OA?oc=5"
   },
   {
-    "time": "2026-09-22 05:53:49",
-    "news_title": "AMD stock gains as Piper Sandler and Stifel boost AI growth narrative - AD HOC NEWS",
-    "source": "AD HOC NEWS",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTTRsVzQ5YzVRNGFfN3FJektkTWhSa0psS3Zqc1pCWl9XSS0zTUgxMWxJS2tFZk5LaWZ2T2twYTBtdkhYZUh1S21KcUVYRmRxUUlyNnBTYVUwN1lSLTU0eUt2UEEzMnQza3JvZ1dfRzRJNkxDUG5Gc0loYk83YlJVOWEyUV9Kam5JN3MwYmVWZGNkLXM1SzBiVjc2WHAwemJrY1d5ajh1ZWdwa3VwR29jcXVxY3A5SHVOZU1yVzBKQ1B5TV9ybXF4bG16a1M?oc=5"
-  },
-  {
-    "time": "2026-09-22 05:53:50",
-    "news_title": "Intel May Raise Chip Prices 10% and the Stock Took Off. Why Most Analysts Still Refuse to Buy. - 24/7 Wall St.",
+    "time": "2026-09-23 05:33:20",
+    "news_title": "Wall Street Is Worried About AMD. Here’s Why Long-Term Investors Shouldn’t Be - 24/7 Wall St.",
     "source": "24/7 Wall St.",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUUF0WWN1UVU4bGZ3bERLeVhobUpPX0JEVXpuaGdsRnFfSV9aeG9Vdzh2R2kzdXNLM3VfTlNmMWh6RmtQd1NRekRBaHA3eS1WZ1BKRERPUFU2T1owWk5OWW1kZU43ZTg4YkNIbEczQUVoel8yMmc4ajFiMXNVdC1lY2sxZlNoNkp1LXdMWlR0NFY2REl1c1h4MXp2M2NjV2hNX1dVcC1QdkhKekNPMDlfOFVra3ZPZDR6MDFJVG1qNDBQQ2VYMGI0UU5vQU9Kb21MMmRF?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUpVU0NlODBWTTRUbGJVNjgxMTVzOGFpaXNGVXFySm14dVBZZGxsTWQ4cll2em9ZaU40R2Z4bTNHZUUwWTFvUDJKZnpWU08xZzY1VFo3SFBzbmVadUFkZTBNeXVMUFZKRnJqMlotQks5aDJoU1BMQUhwY3FCakV6dGtGbFVULXRWeS0wU3BKekEwRVpTV1dvVWI3UlloTUxBUEpyWXVVbVFIaXpWaTVRNHRpb3VXZEpwb0E?oc=5"
   },
   {
-    "time": "2026-09-22 05:53:50",
-    "news_title": "AMD Earnings 'Were Good,' Says Analyst Even as Stock Sinks 9% After Hours: Wall Street Wanted a 'Blowout' Forecast - Yahoo Finance",
+    "time": "2026-09-23 05:33:20",
+    "news_title": "Whatever Happens on Wednesday, Nvidia Stock Will Almost Certainly Be Cheaper After Earnings - The Motley Fool",
+    "source": "The Motley Fool",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHNVMEhDRjdKWVVvUUtQMEpOZkJ3Z1ljeng4aHVYaGZNSDJlbFVTdGJvQnJMc19OOFk4bElPWVdBcG1UcnBxR2Y4dFBUaGR1YWtNbFBMbGFBUEl6R0NvOFFQQU5PSy05dGRfZGhZRS0xTEFWUV84YVpILU0zUjNwdGJPaUctZERocHJzYS1IVm0xbDFyYzJjMg?oc=5"
+  },
+  {
+    "time": "2026-09-23 05:33:20",
+    "news_title": "Nvidia Earnings Today: Analyst Expects ‘Monster Beat,’ Eyes 3 Key Updates From Jensen Huang That Could ‘Move The Needle’ For NVDA Stock - Yahoo Finance",
     "source": "Yahoo Finance",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXRsQklURDZWOGc4ZHhfQzZmMDFrY3VEYUFKY0J1bTAtbXZPUm5IWGV4ZVBZcm9jQ2YwdlNFYndSaDMxNU1iRGIxaVNldHphWmMzT2xLOEprcWJtWG1VYmQtV3IwWlZ2TTB6ZTlFYnNONTVIa0x6elY1bF9pR19MNjNwbWJIZjVMSjNTOFoxdTY4WndrMkYw?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1JCU2swWDF1Wi04N09CUDlLMkQ5aVdnLUh4YTJIRlNpcUNxNlBYQVEwcDN2b3JXczNwZjhESldsLVE2TmJINDhnMmtlbFc0d2lZajdFT0Z2a1Z5RmxmREMwQmJWNTU1eFZJclBJTkdpNjhzLUZLT1ZTWVNaUy1RTGpIczB1NVRKdlphOC0zbHotSFBtS1F3SDBrYV9qQXhmWXVPWQ?oc=5"
   }
 ]
