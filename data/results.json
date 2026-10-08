@@ -1,17 +1,39 @@
 [
   {
-    "time": "2026-10-07 06:53:48",
-    "news_title": "Mizuho Forecasts Strong Price Appreciation for Intel (NASDAQ:INTC) Stock - MarketBeat",
+    "time": "2026-10-08 07:01:52",
+    "news_title": "Sandisk Stock Is Surging Wednesday: What's Going On? - Benzinga",
+    "source": "Benzinga",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNU5OTnBOMHBqTVJJWDh0Q2prSXM5NTRXV0h1YXdibGEzc2VLWVFmZjJ2Q2NYNElTS3FOV0ZmUVBoXzRtVzFLUlA3RmdfN0RxLW9oX3VCXzNQZktTemprazlZd05pSUdxSHFnZ0VFc2ZxcHJZSW51a1JXQ013el9JUWVSWEh1MlYtUUo5LUVnVDRWeUFyVk9VaU5sLUI5a3hfdFhRRw?oc=5"
+  },
+  {
+    "time": "2026-10-08 07:01:52",
+    "news_title": "SpaceX (NASDAQ:SPCX) Stock Price Target Raised at Susquehanna - MarketBeat",
     "source": "MarketBeat",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVo0SkVkV2hfZjhwUTFNY2V4eU9FNS1XNmlfQVJOek9USmk2UlNsWGhTQUxYR1lsOUFUdUNTNzF2c1VIUmFpN2xMMnp6Sl80T09fT01nT21pNF9KZHp3bnItOFZkVktkTHZnTWR5dllvbS1MSmNmdzByNHFBbTktRzFFN1dnczMzTTFiOEliNFRoWno1V2lubUpZTktPR284dV95TEtSYzRBRVo0dVl4bGJaSVRWOU05SThXdlYzRGc1LVpSZHp3UzFLQ0g?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQczZPajRqeXVzRlZxSklhNmd4aS00Smd2eXdlZFpMQXExM09Ddm0zbHQxS3RBaDltN2lCQVh1MUUxcVBadktEVjRHU0ZQN3JhbDZ0M2VPYkg0MFF6ODJlSlMwNHZsT2dzbzRsQ05JVHQ5UjdwVUdBY25kNVhPQWZKdmUzWkJGSFVVcWE5QkQ5Y0l1SmdwcGNvMVZ2Sk5Gb2xMRHlST0daOWdib3F2bWZyMnViQVpXU2lZLW04UzR3?oc=5"
   },
   {
-    "time": "2026-10-07 06:53:48",
+    "time": "2026-10-08 07:01:53",
+    "news_title": "32 Analysts Say Hold on Intel. Here’s What the Numbers Actually Show - 24/7 Wall St.",
+    "source": "24/7 Wall St.",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3RvQ1FPWU02cnotNUp6a1lhS1dMeHNWcklIWVdGRzl4ZE1iUkpUbDZmOUlIZmdIeHFRZE03eHM3WUJBcWNoZVRmTEVQNXlsQWo4Vm43NUV6aXAyZ0VJWWJsdXpfVGx4Q2tyV29RR0haWmxVbXFfck5ubGJWY0lsTmUwcnA0aE00RDJhR2lkT3NJSjZzeWtDRW90UGwtUDlMOHdVWkUwLU9lUmt5RFRJ?oc=5"
+  },
+  {
+    "time": "2026-10-08 07:01:53",
     "news_title": "Advanced Micro Devices Q3 Preview: AMD Stock Could Surge on ‘Beat-and-Raise’ Earnings, Analyst Says - Benzinga",
     "source": "Benzinga",
     "impact_level": "Low",
@@ -22,51 +44,7 @@
     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWVE3N0duQ2pLemhWeFhjT2ZkajZtRldUQV9DdzBsVkdtRFdaTjZ0WW9BSVFhZE44Z0pBVzNJNmI5TjJoRmt2ZGhEcWtpT2QwWXdFQ25JdkNPc3o1djE2WldxNlozYm5CZHBPOGVUakZVeVFMWkJWM193UmpyVkJYcUNFZndPZ0lGVjhNRWgzQUlQb2FZelZHZzA1NG0zbWFUUEY4NTVkZlV2Ym8wakxKaFlXMElKNnJEa0FpQU1mWDBERlFfMmYwN0R4bkVTZzA1c3Z2azVRcW52emRqYTdpa0hhMHVVVGZ6WmZTQ2VkdXotUG0yMTFJUU5MTXoteXNi?oc=5"
   },
   {
-    "time": "2026-10-07 06:53:48",
-    "news_title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Amazon In New Base - Investor's Business Daily",
-    "source": "Investor's Business Daily",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRekF6aWZNLTRUOGNzcTRQVjdBb2M1c0Fia21VUTM1QWw2UXRodw?oc=5"
-  },
-  {
-    "time": "2026-10-07 06:53:48",
-    "news_title": "32 Analysts Say Hold on Intel. Here’s What the Numbers Actually Show - 24/7 Wall St.",
-    "source": "24/7 Wall St.",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3RvQ1FPWU02cnotNUp6a1lhS1dMeHNWcklIWVdGRzl4ZE1iUkpUbDZmOUlIZmdIeHFRZE03eHM3WUJBcWNoZVRmTEVQNXlsQWo4Vm43NUV6aXAyZ0VJWWJsdXpfVGx4Q2tyV29RR0haWmxVbXFfck5ubGJWY0lsTmUwcnA0aE00RDJhR2lkT3NJSjZzeWtDRW90UGwtUDlMOHdVWkUwLU9lUmt5RFRJ?oc=5"
-  },
-  {
-    "time": "2026-10-07 06:53:48",
-    "news_title": "Mizuho Issues Positive Forecast for Advanced Micro Devices (NASDAQ:AMD) Stock Price - MarketBeat",
-    "source": "MarketBeat",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZWpWRlByaTU4MHBBQ25TT2hRZnNUdDdRYTV5QUdzd3ZjQ1hYVFJiSXUzZUNDeFRmU3JMSXJsUk42MEdQZXRVMmVUWEY3b0xtZEFfemtMdkRORzVxaTBJejZjNVJGS2Fhc0ZWYUExNW9Cd3lkZ21nMFRROE1xVkpZTFJpaGpsbjBYRGhyR3FYTFM4RTI1YVBqallTZ3lCc19sUGc3Rk1pTTBfcUdHXzg4V0J4OGFkQkFxNDdrVW9NLVYtNk1SV1NhS1FNanJqSE9oZjlfWnU0eHFtTDg?oc=5"
-  },
-  {
-    "time": "2026-10-07 06:53:48",
-    "news_title": "Sandisk Q4 FY2026 Earnings Preview: $8B Revenue, 80% Margins, and a Raised Bar - TradingKey",
-    "source": "TradingKey",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWxvMVg5Qkhla0hrXzBUN0FTemVGTUtic0ZrLVBWRlZNLXBWQkV4NThNLVp0N0trTVVLeHBrYWhHbm5pS0FjRGlFTmIta1pZZUk2SDlCNHBMSEZOa1NZT2M2T25mTGxnRXNfQ0E3QjQ2cWpRR1RIc253SnptTmJfb1hrZGdwME5IcmVfMnhIcWZTa0JwRnU0aWlXa2pwdE5ZaXpSR0k1LUV4ckFaNlc4T2Rodw?oc=5"
-  },
-  {
-    "time": "2026-10-07 06:53:49",
+    "time": "2026-10-08 07:01:53",
     "news_title": "Top analyst sets outrageous Intel stock target ahead of earnings - Yahoo Finance",
     "source": "Yahoo Finance",
     "impact_level": "Low",
@@ -77,14 +55,36 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWhZVlAtU1AwUFEycWVwLWlJN3BsLWRCWTdMTEZ3UWNkbzNqNDNqNVYtem1YMlZjRkNLRXQtSHJtb01pS1MtbWtzSml3N2xKVDVVdVl2YzFxemxGcDNRc1BGYzI4RlVVVUhOYmhTdkF0MHRZQ0hVY3RsSG4tRVhOZXFuZGlDTldKSE9ickxBdzFTbzlQSFZNdW1Vdm5kQjg?oc=5"
   },
   {
-    "time": "2026-10-07 06:53:49",
-    "news_title": "SpaceX Stock Rises as Analysts See Significant Upside - Benzinga",
-    "source": "Benzinga",
+    "time": "2026-10-08 07:01:53",
+    "news_title": "Intel (NASDAQ:INTC) Stock Falls 2.6% - What's Next? - MarketBeat",
+    "source": "MarketBeat",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbkN5cnV3TGprQ2p5akwxdmRjczRTUVRCb0l0MDlFUzhnX1liSHVPN1VPUndGZlVDWVBEVXNSWi1JZWxVUDVfVmlsM1JxU0l0bmNicFh5WkhpTzRKRDVNVnQ5SWtjVWpLMlRzbjMtQWxiYWdvalpsWkFsWjEwT2VRTWFkYmlpemxSMEV3alJyRHRkcEVZZUNBdmdpczE5Ymw3czd6YWtBaXFVcWV5a2x5T3NXUE4?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORWk4ZWlTVmdxbVBtMk1NUzRVR3BkTUI0NTNITnNGLVFZalNKR2RUREd5M3VFX1NYN1lyM0JjTW1hcnB5TEJ3ZXlDQzg2cVJoV2N6MHlUazYzLWVzN0lPSVh2eVJJblFmRTRVbmlkN05IX25DOTlmQTNYbjFXRGhEa2dWN1ZORkdZcFF3OWs5enN0VjFZLVNLS2xwZW9NbDEtZXI5WjJn?oc=5"
+  },
+  {
+    "time": "2026-10-08 07:01:53",
+    "news_title": "Here’s How Much Nvidia Stock Is Expected to Move After Earnings - Investopedia",
+    "source": "Investopedia",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUVrUnBqVHJPeXJmX1FJcmRUZ19XWmJkZU5RcUJLbUxIc1pLOTdiME5Kb1NXTTEyNFdPVjhrZlNnTXh0b21zcmMtSGxzMmhFNW5EaHdRVFVqT21vdU90ZDlaSVUtb29EY25hQVJXV3NiN2lTOVVDZ2hjZ2U0Qjk0YTVwWHp2b25MRmlqS0g4QVNpVVdMUVFMOHFQU0RDZTdqSlpRTEZqdnp5RHdTQlhVcDFEd2gzN3NCXy1DdVBERTVtQQ?oc=5"
+  },
+  {
+    "time": "2026-10-08 07:01:53",
+    "news_title": "SpaceX Stock Dives. Analysts React To Earnings Beat, Shift Price Targets. - Investor's Business Daily",
+    "source": "Investor's Business Daily",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdDZ5ZGNEdW5BOC0zYkxWVVh0Q1lmcHRkN19FT2JWaEw0ZVlOUnNXMDlQNFVPQndFd0lPX2ZpbzJueGNDNE81THJQZV9pV2RVN1BlMGdUcXI4bUJZN0M0ekZ6TnRpZFFQOGxYbmlzbTdLNVJkSGVkWmpsSjNIR1cxc01SbUJuNm51ck00aUJxZlFqWkpQQVAzclUtaDhhVm9tQmVvY3lQX0EyM000TTJmRGVzVGJ1TjdLZEduVVVoTFZuNzlv?oc=5"
   }
 ]
