@@ -1,39 +1,17 @@
 [
   {
-    "time": "2026-10-22 05:48:03",
-    "news_title": "Intel (INTC) Expected to Announce Earnings on Thursday - MarketBeat",
-    "source": "MarketBeat",
+    "time": "2026-10-23 05:47:10",
+    "news_title": "SpaceX Spikes As Analysts Hike Stock Targets. $1T Revenue Target 'Not Impossible,' Musk Says - Investor's Business Daily",
+    "source": "Investor's Business Daily",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXljWWpXbkhKR0JTcGtnZC1naUtUU3FLNnljcmFwTHUzZW5BOW9XX1hrc0pvM2ZQYjVlTkdhbHM3NEhhV19iNjU5eUIyVGxqODJfTzRJZl85NG1CanpUQ2Y2TzNSaUFKUTRIMW1WYmpvS3J2VDFWYlpkTUdlNmc1cUlfNXZveVh5dmI4R1R3aDU5MXFKUnFZRHZwUExRdnMwZlVmVldSUmNOeEhJTDlXYWNMUUlfdw?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZVNaMC0tTlk1UXh2MXZqZkNLdzc2QzhpU0RRa05KN1g1Z1VyWUxUSGpCWEhZcmFOa1Fzd2ljblFDVWN1a0o5Z09qNHozNTc4N0U1dVhXQkxCSTk2QnFGZmdLTmp6SFB2N0t3SlUxS051ZDVzRlNQMkdmVTlhZHhuX1AxODk2SzFUOXl0R3RYUFZZTHBZT3dURkZvRzVOTWhxZFh4M1hob3NOSkFwTmtyZnFWTkQ1WW8?oc=5"
   },
   {
-    "time": "2026-10-22 05:48:03",
-    "news_title": "After a 137% Run, Is AMD Priced for Perfection Before Earnings? - 24/7 Wall St.",
-    "source": "24/7 Wall St.",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2M4WFEzV1E0Rk1HZ0paaC1DRlpuUWlzNnNQcWlwNm40UjMwMmJsZjVFc1owVDN1enpsVlRmMG5nX21WLW1yTWhzX2xzT0Z6cXlFX2NWZy1YcDlGa2k5R2lXY0VCLV9iYU14U0lIZXRISjlsak9FUWhwYkdmYXZSbmNvU0E5RnhnWWpTcnhBLWJ6UDNpcWl0bU8zMjBManN6TWIzLVdobw?oc=5"
-  },
-  {
-    "time": "2026-10-22 05:48:03",
-    "news_title": "SpaceX Bulls Get Louder After Q3 Earnings Print, But One Firm Flags $475B Funding Gap - Benzinga",
-    "source": "Benzinga",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd1BLbFNXd3h3TlRLUUpGYThUMVIxSHhLYmhlSFlDVVVwMXVzdEtyOFl1SFBLb3hNODJVMUFwTkZXT2IxUVhkWWt4dElqUFBMWkdsX25fT3JCTzBySFNMQUQwSmpnbVBpUzdXZ1VabURjdW85a1dTNThNMUpyZmlqYlFYVDlROERHTEc4YzZfSU9xRFJoczV6d2pUSkxCamNmSHNTc2VHdmZiakxOclh1Z2ZUSlFCWkwzQlpBc1h6dXgwbDNnWjNaX3RQbE5GUERwUElsbDdLN2dFQVJpa3BvWW4ySHJiQTNyV1JOWng1OA?oc=5"
-  },
-  {
-    "time": "2026-10-22 05:48:03",
+    "time": "2026-10-23 05:47:11",
     "news_title": "SpaceX (SPCX.US) earnings report ignites options market; market capitalization volatility could exceed $100 billion. - Moomoo",
     "source": "Moomoo",
     "impact_level": "Low",
@@ -44,47 +22,69 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcUVlNGktdTRWUnB5cmozeVBfdVBvU3Q5SXY4SVhvMWxOYVdSWUhOYXFKNzk5OWpmSm0zd3c0SGJQdnZ4djN6ZE5lMGdQdWFrOUlfLTBFRmJwT1hNSDNfWkVBUXNFTjhYYTd0MmxBb0Q0TEU2MUYwWVJJNTdNZDFCQkJhQnJvTGpjVEpUZ0xYWnFhZkdybWozdzRNdTFMUjlEcEtOc0ZhZ0FpM3k2Wi1IVHBrTExQNWdzN19xZXktczYwMmd3TnpIWQ?oc=5"
   },
   {
-    "time": "2026-10-22 05:48:03",
-    "news_title": "$SPCX ($SPCX) Releases Q3 2026 Earnings, Stock Rises - Quiver Quantitative",
-    "source": "Quiver Quantitative",
+    "time": "2026-10-23 05:47:11",
+    "news_title": "SpaceX Delivers Q3 Double Beat as AI Revenue Soars - SpaceX (NASDAQ:SPCX) - Benzinga",
+    "source": "Benzinga",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWTFVTG5VdWtOeEVwdWtEMXlfM2w5Y3V3TGticm5Sby1OVTVpS0lzSkIyQjdkcW1BTnhGaTZfNmNQeDZIajNqbjJFWHYxY2E0dEV6UndBc0UwUXVDYUZTdVhfT29xU3FSNFRzUHQ2ZE1FSHRCa05YWW14RUpLWmNKSkNtZHprVFcwOGRwY3V6Ul9RWl9QS1lYcExXU1QyMTdoUllEQVhaV2FTOFE?oc=5"
+  },
+  {
+    "time": "2026-10-23 05:47:11",
+    "news_title": "Analyst Keeps $225 SPCX Stock Price Target Ahead of SpaceX Earnings - CryptoRank",
+    "source": "CryptoRank",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPektvb3E0ZktTZEstT3hkM1A3cGlSU0VfRWlRQ2NBdGJvWWRqVmVPWG9QWG9FcjMzZHFoWFpSNVpBRkdiUFZKcnRmeHE1NW5jOHY1dmd4aDBNRUJYQVB5ZlNlV1I1UjdHT2NLYkhLc1lBSzdWeG9fczhDMkN1Vl9PZEYtZ2dDYlBvVUhrNVpzLVNobGpLZG55bS1xdw?oc=5"
-  },
-  {
-    "time": "2026-10-22 05:48:03",
-    "news_title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Eli Lilly Leads Industry - Investor's Business Daily",
-    "source": "Investor's Business Daily",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRekF6aWZNLTRUOGNzcTRQVjdBb2M1c0Fia21VUTM1QWw2UXRodw?oc=5"
-  },
-  {
-    "time": "2026-10-22 05:48:03",
-    "news_title": "Analyst Keeps $225 SPCX Stock Price Target Ahead of SpaceX Earnings - CryptoRank",
-    "source": "CryptoRank",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWZxbmVQbkZKRno3eTdsN0VWU0F2dzFvcGZTcGJ4cUFuSDY1RS1FS2tVc0dReEVFT1dqM3U5Nzk2ZWZwSzhWU2lkNkE0RW9NeGQ1Z3FJLXpTQ0pZckZVZXNZWTQ1QVdmdVdoUjBmRlpaZTdOd1FtY2lmOEdnZHJQUDAwZzZ0TUZSUWZZVElLZkt6SE13V3RpRkZHVVAzWGt6b19wcTVuYw?oc=5"
   },
   {
-    "time": "2026-10-22 05:48:03",
-    "news_title": "What to Expect From Advanced Micro Devices’ Q3 2026 Earnings Report - Barchart.com",
-    "source": "Barchart.com",
+    "time": "2026-10-23 05:47:11",
+    "news_title": "Why October 15 Could Change Everything for Taiwan Semiconductor Stock - 24/7 Wall St.",
+    "source": "24/7 Wall St.",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZW14RzdiVVdZRk1UcFNCVWZyRER4aTBCN0JhaFZxbDNDMl96SEFlYmZFdFJVMTk0OFVjd2MzenUyRXZYSVVUbkVjWlBJTUttUzJmRjY0ZzRyVGdIZDdaUnpHRVBsVEZld2pjQ2ZpX2dSckxpWWROVWt5NU5kejYxTzhWWExMVG1FaFRRYVB3cmpYSmhlQ1FfYUU3WWhxc2tBeG9kWXpyaGstQjE1X3NR?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnNMXzJjakNhbGM3TllhdFV5UE1pMUNIODFYOXlET3dTNlNDMThyZl9odjNIckJ1T09Gd25lRXpYNzc4QU9XeERlMGNIemtTZm1VT2I3RDVseFE3c2dPSGpfZUotRGYyTFROb3NBUU9CNjhoZEdsSDIycFdoUW1ucTRhNVliOWFDbHlUNzBWbmI3V28yX25oWG05dTFuQURZZDdObmlSanpuT0I1cmZqRjZETQ?oc=5"
+  },
+  {
+    "time": "2026-10-23 05:47:11",
+    "news_title": "SPCX Stock: This Analyst Sees 41% Upside As Starlink Mobile Targets Wireless Market - TradingView",
+    "source": "TradingView",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVGVhaDM3RkRPWFR3aXJGTmhucHNHbWFQcDJXeHlueUFzSmY2UjlmanhtV2V3Y2lMc1pDU2syUDM5dDdlVXNYZTgwYksyUC1fdDRtdlpOamFXbWFVcVVnaFp4V3ZmVmx4a3ZtU0xDck9ES0F6OFplazQ1bGFyMUVvcmFOcGJBbW84Y05MdzhYOXVRcEs3emFvSUctTlRGT3p6NmJNUUxMaWJPVnNXWVZ1WUVhLWVqSTNLNUJHRUtyNFQ4NVkxLVFMMGh4QkJtbXJfckx6Q1J5aE4?oc=5"
+  },
+  {
+    "time": "2026-10-23 05:47:11",
+    "news_title": "SpaceX $SPCX Stock Bought by Woodward Diversified Capital LLC - MarketBeat",
+    "source": "MarketBeat",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVGVKOUY0a1doQ2p3Y3NTSjRJckVfMHZycGR6d3VUVVotaXc2RTNGZGdLTkF5YTlHTHVIZUtUenpISTZDaHRvd1ZjeTVtZlpWNmlDbUs4UDB1Z0VHMXU0UjlFc2Y4TEtPbDBDTTk5SGdIdlYxVW40dlEwOHBESUxUWk90ME9KT3M5Y3cwT2IwejFjbkZMd1BtVm5MaG84RDJ1T2VPNV9NOE5MVkhUbXpoUXVwOG12TEZBUkM1YlRn?oc=5"
+  },
+  {
+    "time": "2026-10-23 05:47:11",
+    "news_title": "$SPCX ($SPCX) Releases Q3 2026 Earnings, Stock Rises - Quiver Quantitative",
+    "source": "Quiver Quantitative",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPektvb3E0ZktTZEstT3hkM1A3cGlSU0VfRWlRQ2NBdGJvWWRqVmVPWG9QWG9FcjMzZHFoWFpSNVpBRkdiUFZKcnRmeHE1NW5jOHY1dmd4aDBNRUJYQVB5ZlNlV1I1UjdHT2NLYkhLc1lBSzdWeG9fczhDMkN1Vl9PZEYtZ2dDYlBvVUhrNVpzLVNobGpLZG55bS1xdw?oc=5"
   }
 ]
