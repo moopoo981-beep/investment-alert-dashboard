@@ -1,17 +1,39 @@
 [
   {
-    "time": "2026-10-26 05:48:42",
-    "news_title": "Intel Analyst Price Targets - Benzinga",
+    "time": "2026-10-27 06:01:31",
+    "news_title": "Prediction: This Could Trigger NVDA’s Next Breakout by 2027 - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlVNeGxTREFDYlY2bEwtNjZKSGlma1FMWWNsNmtpWHhScHlCQXZQYzZrdlVtbjFvSFEyY2pPVURJZzNtSWl1T1dqYXdkcFF6Q1lBcjVZQ1R4b1ZseEdfeVRmODBQQ0lVaUFvSWpfd1VLRDBlQmVURVVFTEVxWEJMa1Jfb2lSNnhYRm1GcFJ4VW9oTk1hdWZYRkZTXzlueWpW?oc=5"
+  },
+  {
+    "time": "2026-10-27 06:01:31",
+    "news_title": "Prediction: This Could Trigger NVDA’s Next Breakout by 2027 - 24/7 Wall St.",
+    "source": "24/7 Wall St.",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREZTS1hMYzJXdnNuUEt5QjdCQUZLSmpqU09sRDhLd05XX3Q1blhTMURVbDI2dUZnNFpsYjRobmZxMEEwdGZWVWJTS0pDM05rZFpVX1BOZnJLSF9fSU1PVUZaS1BIa3dMbkRqUEtWN1F3Yk9qZXBUVTlYdmFVWFZoR1Nld2Qwbzdyd1U3ckQ4amxqcTY0OG5BaEstUnkzNVlJUERF?oc=5"
+  },
+  {
+    "time": "2026-10-27 06:01:31",
+    "news_title": "Sandisk Earnings Are Days Away: Here’s What Investors Need to Know - SanDisk (NASDAQ:SNDK) - Benzinga",
     "source": "Benzinga",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZY25pVVBkSF9GTXA0WWg2clBFd1l4MTVpWXZzNlFTUnlrRExrMlhQekNScG9hY2NCRTRMS093RklINUNXQXpZTXVXNE8tRm94QWFkMVZONzBKcE5qeFE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa1NyUjBmdWE3dVdYRTZBY3VDSDYya2tsT3BtbS1MZ19DaUtyWDBZUlBlYkpGT3dLWU9nR0QzUXBwMVRxV2k1aTJqaEZSYjFVZllSRXd6Y3BmQ3c5QTlmbElMQjhqVUxvanQ0THAtdHpsRGN4Z2l0cUViSThMa2xSajUySE95MzA2VFkxaEl1UUpCSFRkWnB5SEVZS0lFVWljdm5SXzc3a2JPTEF6YzN3WTBYNGRNdC0tQUJLS1ZpcGtxODg?oc=5"
   },
   {
-    "time": "2026-10-26 05:48:42",
+    "time": "2026-10-27 06:01:32",
     "news_title": "SpaceX Spikes As Analysts Hike Stock Targets. $1T Revenue Target 'Not Impossible,' Musk Says - Investor's Business Daily",
     "source": "Investor's Business Daily",
     "impact_level": "Low",
@@ -22,69 +44,47 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZVNaMC0tTlk1UXh2MXZqZkNLdzc2QzhpU0RRa05KN1g1Z1VyWUxUSGpCWEhZcmFOa1Fzd2ljblFDVWN1a0o5Z09qNHozNTc4N0U1dVhXQkxCSTk2QnFGZmdLTmp6SFB2N0t3SlUxS051ZDVzRlNQMkdmVTlhZHhuX1AxODk2SzFUOXl0R3RYUFZZTHBZT3dURkZvRzVOTWhxZFh4M1hob3NOSkFwTmtyZnFWTkQ1WW8?oc=5"
   },
   {
-    "time": "2026-10-26 05:48:42",
-    "news_title": "SPCX Stock: This Analyst Sees 41% Upside As Starlink Mobile Targets Wireless Market - Yahoo Finance",
-    "source": "Yahoo Finance",
+    "time": "2026-10-27 06:01:32",
+    "news_title": "Advanced Micro Devices (NASDAQ:AMD) Stock Jumps 2.8% - Here's What Happened - MarketBeat",
+    "source": "MarketBeat",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWtuY1hCQzFKbVdfcE9jQVhVdzJ3bW9oUWEtS3U5WEpiYTlSS0pqMnFneVN3LWpZaDdEeW5tUDdVd3dCMEdMUXVRWE9MUElzUHRXMVJRWDlSeHBiRkRlZWZIMGE1TFE5OThQYWZDRnhaamlOcVN2dFh2QTVqdFl3SDlWXzRyU21sdk1Cc2ZmdXhqTGUtZXc?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLTc4TU5CWlhhblhmMUp5WnBZSGRfdnBLWGdabHFXQnNfUjBKOHdGeDRmVjBfY3cza0ZPZ08tRFFkQjNPbHlsV2gwTGlTOXVOSDZzcjVVN1JSdmZhdHVOZHNDOEs4NWpLaXdBTzVlUGNHR0JGektpT2t2Rm5IXzRKcExZR2I2Q3FTenJJQTFSdzBMX256b2xTbDVIU1ZqdHhLbGVNc3VYNWlrWHFLSllpaWFwZFZ1UmQ5eXNUdGJNbVR6c0FSMjBv?oc=5"
   },
   {
-    "time": "2026-10-26 05:48:42",
-    "news_title": "Analyst Keeps $225 SPCX Stock Price Target Ahead of SpaceX Earnings - CryptoRank",
-    "source": "CryptoRank",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWZxbmVQbkZKRno3eTdsN0VWU0F2dzFvcGZTcGJ4cUFuSDY1RS1FS2tVc0dReEVFT1dqM3U5Nzk2ZWZwSzhWU2lkNkE0RW9NeGQ1Z3FJLXpTQ0pZckZVZXNZWTQ1QVdmdVdoUjBmRlpaZTdOd1FtY2lmOEdnZHJQUDAwZzZ0TUZSUWZZVElLZkt6SE13V3RpRkZHVVAzWGt6b19wcTVuYw?oc=5"
-  },
-  {
-    "time": "2026-10-26 05:48:42",
-    "news_title": "Why October 15 Could Change Everything for Taiwan Semiconductor Stock - 24/7 Wall St.",
+    "time": "2026-10-27 06:01:32",
+    "news_title": "Intel’s Make-or-Break Margin Test Is Arriving on Oct. 29 - 24/7 Wall St.",
     "source": "24/7 Wall St.",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnNMXzJjakNhbGM3TllhdFV5UE1pMUNIODFYOXlET3dTNlNDMThyZl9odjNIckJ1T09Gd25lRXpYNzc4QU9XeERlMGNIemtTZm1VT2I3RDVseFE3c2dPSGpfZUotRGYyTFROb3NBUU9CNjhoZEdsSDIycFdoUW1ucTRhNVliOWFDbHlUNzBWbmI3V28yX25oWG05dTFuQURZZDdObmlSanpuT0I1cmZqRjZETQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa3FmalFlYTBiVzUxRDhqckVOYkFBUnBpdkdvalBBU1Y3WWNnOWVpVERYb2E3UmJoaW4xYzBCNk12SnFNWTFSMDJab0JSamFsNEhMLWdHZnFOUTc5SlcwaUI5Q2FNaW1XUnZHejZodXJhNU93RzBvNjM3Q3k1S0hGVk81bWpKZXZ3OWhHS0VSVjYtakdjN05pSE12TmhwTVk?oc=5"
   },
   {
-    "time": "2026-10-26 05:48:42",
-    "news_title": "SpaceX $SPCX Stock Bought by Wedbush Securities Inc. - MarketBeat",
-    "source": "MarketBeat",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeDVJZV90YjlyeEtzaVlsYTRBSl9OaTJWazhkT0pzME9NdlNydnBNTnJ2aGRhdjB0UEtvQ3pVdk9LR3RKdE1DYnk5dTVxbFg0cUNsTURqWGktSy1vdnhud0dZdDBaTjlOOVJWdmNNX2FpXzVsRTV3c2RtZHlacUtQaWFIZ1Y0QUhDUG5JYXd3cWJCbEYzYVo4T1NwelBNcGpDS282aHp3eFQxRUxKTUI1Vg?oc=5"
-  },
-  {
-    "time": "2026-10-26 05:48:43",
-    "news_title": "SpaceX Delivers Q3 Double Beat as AI Revenue Soars - SpaceX (NASDAQ:SPCX) - Benzinga",
-    "source": "Benzinga",
+    "time": "2026-10-27 06:01:32",
+    "news_title": "SPCX Stock: This Analyst Sees 41% Upside As Starlink Mobile Targets Wireless Market - TradingView",
+    "source": "TradingView",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWTFVTG5VdWtOeEVwdWtEMXlfM2w5Y3V3TGticm5Sby1OVTVpS0lzSkIyQjdkcW1BTnhGaTZfNmNQeDZIajNqbjJFWHYxY2E0dEV6UndBc0UwUXVDYUZTdVhfT29xU3FSNFRzUHQ2ZE1FSHRCa05YWW14RUpLWmNKSkNtZHprVFcwOGRwY3V6Ul9RWl9QS1lYcExXU1QyMTdoUllEQVhaV2FTOFE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVGVhaDM3RkRPWFR3aXJGTmhucHNHbWFQcDJXeHlueUFzSmY2UjlmanhtV2V3Y2lMc1pDU2syUDM5dDdlVXNYZTgwYksyUC1fdDRtdlpOamFXbWFVcVVnaFp4V3ZmVmx4a3ZtU0xDck9ES0F6OFplazQ1bGFyMUVvcmFOcGJBbW84Y05MdzhYOXVRcEs3emFvSUctTlRGT3p6NmJNUUxMaWJPVnNXWVZ1WUVhLWVqSTNLNUJHRUtyNFQ4NVkxLVFMMGh4QkJtbXJfckx6Q1J5aE4?oc=5"
   },
   {
-    "time": "2026-10-26 05:48:43",
-    "news_title": "Chip Leader TSMC Delivers Beat-And-Raise Third-Quarter Report - Investor's Business Daily",
-    "source": "Investor's Business Daily",
+    "time": "2026-10-27 06:01:32",
+    "news_title": "Analyst Keeps $225 SPCX Stock Price Target Ahead of SpaceX Earnings - CryptoRank",
+    "source": "CryptoRank",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXy1TbG85Y0hNQkxYR3pFRDV0UWZPVG5udjJxekd6RkNJWmlBX1Y0T2NnSEF3V1Q2VXAwNGZleWxwRC1DakxjZmZha2V1Q2J1cFNqdWRLek9fQlI1R010Q3NRQ3pYeE16WVY3dUVuUkRyQzhkeHYyb0VVSVhaWWJMT1BrT09Fem54Y2NQRVhjbzNqX1FHRzZOeW9JSQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWZxbmVQbkZKRno3eTdsN0VWU0F2dzFvcGZTcGJ4cUFuSDY1RS1FS2tVc0dReEVFT1dqM3U5Nzk2ZWZwSzhWU2lkNkE0RW9NeGQ1Z3FJLXpTQ0pZckZVZXNZWTQ1QVdmdVdoUjBmRlpaZTdOd1FtY2lmOEdnZHJQUDAwZzZ0TUZSUWZZVElLZkt6SE13V3RpRkZHVVAzWGt6b19wcTVuYw?oc=5"
   }
 ]
