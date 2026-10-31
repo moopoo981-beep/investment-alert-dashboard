@@ -1,90 +1,90 @@
 [
   {
-    "time": "2026-10-30 06:50:30",
-    "news_title": "Alphabet's third-quarter results missed expectations. They led one analyst to downgrade the stock - CNBC",
-    "source": "CNBC",
+    "time": "2026-10-31 06:41:41",
+    "news_title": "AMD’s stock slides after Intel earnings reveal two big issues - MarketWatch",
+    "source": "MarketWatch",
     "impact_level": "Low",
     "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05Rmh4aHBLMGRpVWhGR3pXaVg3dDhzVk5QTkJ2QVJ4WlZxZVF0ZnRNM290amk0UjFQekdIZnFZNGVZWXZ6SFQ3elpVMHlkRkRscm9vUW5hVy1KQkJwazJMaGFjVm95djlwVHctRGZXVTdMWTJlOE52V0xRY2RyQVE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSG1ER3NBSmVWMHJlelZ0akVNa1FTVDFlM1J3b2ZMOWZXanV1cVdDblB6dDlHRmJYZDRVZ2JKWTRfRDIyTkZaNENTZVQ2MGFJUjk2X0ZfU2ZTVjZEcm02VlJZXzQyYmlVdHY2Mm5BaEVvUmN0Tm1rQUF2NWlIQTdLMFpWNVl3QUNvX05MRlg0cmw5d1JQWjAxeUtDeHpVandzY2tDZGxn?oc=5"
   },
   {
-    "time": "2026-10-30 06:50:30",
-    "news_title": "Intel (NASDAQ: INTC) stock price forecast: Wall Street targets $80 to $155 - Beinsure",
-    "source": "Beinsure",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd3N6R2YtSXphT3NCT1pRUUhYYi16UDVQTzNsMTI4TURkYU91UTdiVkQ3LXpRVElRNGZFVktPblY3ckpuZE8yT0x1VmMwMFVsaTlOeWhfMGstTkJYcERIM3lUQlFBRS1Lbmppdm5WYkFDTEN0YzJQQWJZUXotM3B2Y0wtQQ?oc=5"
-  },
-  {
-    "time": "2026-10-30 06:50:30",
-    "news_title": "What to Expect From NVIDIA's Next Quarterly Earnings Report - Yahoo Finance",
+    "time": "2026-10-31 06:41:41",
+    "news_title": "SNDK Dips Premarket Despite Strong Q1: Analyst Sees Memory Pricing Peak On The Horizon - Yahoo Finance",
     "source": "Yahoo Finance",
     "impact_level": "Low",
     "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ1IxLVpuU0lkd3ZUSjlGaWJWSHU0VE5TdlI4dUZoTFF6VnZWV3NfUUY0UXNZZnhQc05JeXdoU2FOZUpNRFVmNzZaUkpnaktkXy1IZVJTZjlaS3lCMGpvWUVmYllERGhUOGVQdWdxUjFnUV81czhfMl9BVlYyWGRQZGhtbi1oWkV3QUVSS3VnNl9ucjdDNVhtWkpxdHd0M19IdGtEdnVn?oc=5"
-  },
-  {
-    "time": "2026-10-30 06:50:30",
-    "news_title": "Alphabet's Post-Earnings Panic: This Market Has Lost Its Mind (NASDAQ:GOOG) - Seeking Alpha",
-    "source": "Seeking Alpha",
-    "impact_level": "Low",
-    "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmNCLWhWSHExd3lFdk9ka29tV3FpNVI3ZFhUTU5aaExwbDBmRGRaVm1Mdkpoa3JxbjdmeU9ma1c1R0hNSENzLXVMNWdLc0Vvb0F6b2JoWUdDTWFpSkgtRmFZajMxN1R0Nmt5amlwTGJTM1FlakNZOWxGRW9WUlpicFh5aFRYQTZXeWNNSlpjYU1GaWE0cnROTFdEVk14Zkgw?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDlwRnRJVWcxQ29DUFdud0RIX1ZEMGFnTFRsamFmV2kwaDJXd1NPQUZxcmg2a05PSWRwbDQ1YWoteW5wMzA2Zmw0YXk3elVrc2YwbUhMMDFfWm42OHNheThRa1dDLW8tTTlfUHJ2REJDVVZuZV83Vnh0QUVtNkZMVTVkSXhwR3luU19CSEIyS0dONUhuSUlfeEMzajNZLW14?oc=5"
   },
   {
-    "time": "2026-10-30 06:50:30",
-    "news_title": "Sandisk Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call - Benzinga",
-    "source": "Benzinga",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcG5CQ3pxSk5JOUc0V1pjeXRWMGhCU1o1MDhNdDhtMEpiZHd5ZUhTNVpVUHdQUElCeUZENW5aQy1ZbGxYV3NmSGs0b3BteEJRbllhZGpVd29PelYzRjJQbzZFNkNod1pNNnhKY3dkQWhESWFadkwzVWg3aDR2cDBjR2pfV0pXbm9ZQXVBbmliZnc3LTVWeVBIZWx4b0daQmY3WWtmX3ZLUEVrYVJFUkFmNkJyU09XSUh1SVhIamt2NHhJczMyXzhQT0tUc2VPOGZOMWQ2ZXFDN2xqcmZWdVpRT3luUG1nV0ViM2UyaTBKUUhUSlBqa1E4aTNVTWNOa3dGUXpZ?oc=5"
-  },
-  {
-    "time": "2026-10-30 06:50:30",
-    "news_title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027 - CNBC",
-    "source": "CNBC",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mMXgyTllzVlZsWFR1UGY5bTVRWWNYRnFoX3pCdDVjNU41Q3VQUTJyb2lTSUs3ZTdBakY3M0RVaERvZUZRMXA2RlhlYTNyeUJnb1MyX0ZjVHJWODNxd0pWbWRHRjNqb0FWVC1xdzdzZ29qQW8wMl9Z0gF8QVVfeXFMTU5rc0Fla1l1QVdxV2I0d3Znd2JCWm1tY1EtdFR6NTNuV0FaYmhWbEVsZUhFYWdNcXZ0ZGlrdWVaZUxnbThKMVR4V290N0hyb3VmSmtRVDFuUC03Yks5b3poak1UNFJoNkE3RHkzWWZMeUFqajFCc0Yzc1BwSw?oc=5"
-  },
-  {
-    "time": "2026-10-30 06:50:30",
-    "news_title": "Intel Drops 4% Ahead of Earnings as Foundry Hopes Fade; Alphabet Tumbles 12%, Microsoft Edges Lower - 24/7 Wall St.",
+    "time": "2026-10-31 06:41:41",
+    "news_title": "AMD Is Chasing Nvidia in AI, but Investors Could Win Either Way - 24/7 Wall St.",
     "source": "24/7 Wall St.",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR0ZDMHBOanVZeUtaMDlfLWhTMzJwMzRNRHlSNDBmV2VyQWpSWkxzekJjdHdlYlVyaFMyRVF0RFJJVjFETG5mYmJQaTVzY01rV2lqQ3hLOXIwd3FWdm5ONVpjR0I2aEdrcE81SU12RnliWEoxOTdvbDRtMk1ScGpIb2ZjdUE3MUNkSVFpelRGUmtTMVZSMXM1WWd4RDZwc0lwRGJZYk05VVd6NXBscGtLNFhJZlNMcmt1dXhsOW5EdTgyVzNhQnljcjV2ZHhkMEx0MHN6T01B?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLW1iZzlUWm5LUjVDUW1jekVCcGlMRlhieXU1QnVPWXo1aFlKcEpTZ0FIcG93NFk2Q3lfSzZ4QlhRUnNnSExHd18xNzhtUUU2ejlidlVkQmQ0ZnMtY1NENnE1SzZQSEY1eWwwaVpud2Y2el9kUlZodkZxd2VwQXp2alFJeC1raUVBT0tSVlVuSk84c0FGWk9ienFWUmdqSWxGb253TnJKWUNjdw?oc=5"
   },
   {
-    "time": "2026-10-30 06:50:30",
-    "news_title": "Intel (NASDAQ:INTC) Issues Quarterly Earnings Results - MarketBeat",
-    "source": "MarketBeat",
+    "time": "2026-10-31 06:41:41",
+    "news_title": "Alphabet's third-quarter results missed expectations. They led one analyst to downgrade the stock - CNBC",
+    "source": "CNBC",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVktOek5zWEZ3Tk5pSHZubkxfUi1kUUo4a2VzYWRQaFNjazJ4Y243Ylp3NkNnOFF6eDFpR0plLWtMX1RNSThQNG11emhLVEtYQTdjTVIzLVBXVkZ6YnB3VTNySm9sQ095ZEVUaERYcTI2X1RwaGszbmZnenBfRVlCT01lS1VIZjJHWkVFS1liaTlNcUN5VFJGR1lTeWJXQTVuc0dYSGk4WUgxU19LQ1hjaUpuVW8?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05Rmh4aHBLMGRpVWhGR3pXaVg3dDhzVk5QTkJ2QVJ4WlZxZVF0ZnRNM290amk0UjFQekdIZnFZNGVZWXZ6SFQ3elpVMHlkRkRscm9vUW5hVy1KQkJwazJMaGFjVm95djlwVHctRGZXVTdMWTJlOE52V0xRY2RyQVE?oc=5"
+  },
+  {
+    "time": "2026-10-31 06:41:41",
+    "news_title": "INTC Stock Craters Premarket After Q3 Report: Analyst Says PC Market Softness Will Stunt Growth, Slashes Price Target - Stocktwits",
+    "source": "Stocktwits",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU0kyOWRwbnE3ZkItZ21ZSC16SXlBWERXTEpUWmhVVkxTSzY5ZzJURzd4ZWFaSDBYQndpYWlKWkd3aWxsSGQ3YUZUemd3TFVoMDF3bkpBOXNWbVozZnAwTXRnZy0tX0lqOW5HcUZ1NHFDYXhCNkV4aFNEMTdKZGNOVHRFb2RCU0x6VzlFNU1jX0ZnelM1MkxiR3RyemZaeUJ3WTFtSEdSc1ZROThFTDduSEtjNjUyMkZpRmUxWjRiOERHeHpRWncwb3FHc1RJVWMzbElpNkQ0V2R3dEhzVEFLQWZRVWVoZWdxSjZpOUliVThuOEJIVmlLUmdmckZFcXpDYldSdEljWElLcjg?oc=5"
+  },
+  {
+    "time": "2026-10-31 06:41:41",
+    "news_title": "INTC Stock Craters Premarket After Q3 Report: Analyst Says PC Market Softness Will Stunt Growth, Slashes Price Target - TradingView",
+    "source": "TradingView",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQeU56dHVCNmtnQWpRZFVYQ1RPeGZxdjVxZ0NjbFFkZGl1cnFTR2pXeF9GWEZtdE5ZemxDS3BuTzU4QjZmVE40b3JvOFRBeXlwbER4ajAxRkFVNkNHd1p4b2NzeWp4cjBzbWVyY1NlTV90b29EV3JxTzJMallQOW9xUS1RYTdjemc4MEFsSFhVLXc4VFZjTWM2eWxscE1BRzhLUUJJTzZmNGRONnN0enRqZ0xtU3FLb21IZTQxbF9TOVZESTRGRVQ0TjFDQ1VUaHVlMnBNOEU0TVpDOVlnQW5kSF9SUW52Y3E2Q1Y4aTdQeXhUZGVyRXo4TVhLd253UmhCblgzaVVsaw?oc=5"
+  },
+  {
+    "time": "2026-10-31 06:41:41",
+    "news_title": "AMD stock price forecast: Wall Street analysts target $800 before earnings - Beinsure",
+    "source": "Beinsure",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsWTlFQnluYS1hblZVQkZLc19zVW0wMnZJZHgzYUoyci1XbmpFVHRhcVpzcVIwZUhMVHppUkNzNW9ocUFxeHR5NmVjLUxaVDMyM3dGZDY4WG82Rm85TGRFUTNlVVlTNVVpRkp6U0ZJOUlxdk0?oc=5"
+  },
+  {
+    "time": "2026-10-31 06:41:41",
+    "news_title": "Sandisk Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call - Benzinga",
+    "source": "Benzinga",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcG5CQ3pxSk5JOUc0V1pjeXRWMGhCU1o1MDhNdDhtMEpiZHd5ZUhTNVpVUHdQUElCeUZENW5aQy1ZbGxYV3NmSGs0b3BteEJRbllhZGpVd29PelYzRjJQbzZFNkNod1pNNnhKY3dkQWhESWFadkwzVWg3aDR2cDBjR2pfV0pXbm9ZQXVBbmliZnc3LTVWeVBIZWx4b0daQmY3WWtmX3ZLUEVrYVJFUkFmNkJyU09XSUh1SVhIamt2NHhJczMyXzhQT0tUc2VPOGZOMWQ2ZXFDN2xqcmZWdVpRT3luUG1nV0ViM2UyaTBKUUhUSlBqa1E4aTNVTWNOa3dGUXpZ?oc=5"
   }
 ]

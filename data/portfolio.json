@@ -5,7 +5,7 @@
     "type": "etf",
     "average_cost": null,
     "buy_target_price": null,
-    "current_price": 707.32,
+    "current_price": 694.81,
     "yf_symbol": "VOO",
     "note": "US ETF"
   },
@@ -15,7 +15,7 @@
     "type": "etf",
     "average_cost": null,
     "buy_target_price": null,
-    "current_price": 157.97,
+    "current_price": 155.33,
     "yf_symbol": "VT",
     "note": "Global ETF"
   },
@@ -25,7 +25,7 @@
     "type": "etf",
     "average_cost": null,
     "buy_target_price": null,
-    "current_price": 249.16,
+    "current_price": 247.76,
     "yf_symbol": "VIG",
     "note": "Dividend growth ETF"
   },
@@ -35,7 +35,7 @@
     "type": "etf",
     "average_cost": null,
     "buy_target_price": null,
-    "current_price": 164.82,
+    "current_price": 163.74,
     "yf_symbol": "VYM",
     "note": "High dividend ETF"
   },
@@ -45,7 +45,7 @@
     "type": "etf",
     "average_cost": null,
     "buy_target_price": null,
-    "current_price": 71.38,
+    "current_price": 71.56,
     "yf_symbol": "BND",
     "note": "Bond ETF"
   },
@@ -55,7 +55,7 @@
     "type": "stock",
     "average_cost": null,
     "buy_target_price": null,
-    "current_price": 213.66,
+    "current_price": 204.64,
     "yf_symbol": "NVDA",
     "note": "AI semiconductor"
   },
@@ -65,7 +65,7 @@
     "type": "stock",
     "average_cost": null,
     "buy_target_price": null,
-    "current_price": 143.89,
+    "current_price": 134.72,
     "yf_symbol": "SPCX",
     "note": "ตรวจสอบว่าเป็น SPCX ที่ต้องการหรือไม่"
   },
@@ -85,7 +85,7 @@
     "type": "stock",
     "average_cost": null,
     "buy_target_price": null,
-    "current_price": 283.82,
+    "current_price": 279.84,
     "yf_symbol": "GOOGL",
     "note": "US tech"
   },
@@ -95,7 +95,7 @@
     "type": "stock",
     "average_cost": null,
     "buy_target_price": null,
-    "current_price": 566.42,
+    "current_price": 504.8,
     "yf_symbol": "AMD",
     "note": "Semiconductor"
   },
@@ -105,7 +105,7 @@
     "type": "stock",
     "average_cost": null,
     "buy_target_price": null,
-    "current_price": 431.81,
+    "current_price": 406.13,
     "yf_symbol": "TSM",
     "note": "Semiconductor foundry"
   },
@@ -115,7 +115,7 @@
     "type": "stock",
     "average_cost": null,
     "buy_target_price": null,
-    "current_price": 92.07,
+    "current_price": 65.76,
     "yf_symbol": "INTC",
     "note": "Semiconductor"
   },
@@ -125,7 +125,7 @@
     "type": "stock",
     "average_cost": null,
     "buy_target_price": null,
-    "current_price": 1330.05,
+    "current_price": 1150.89,
     "yf_symbol": "SNDK",
     "note": "Memory / storage"
   }
