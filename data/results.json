@@ -1,28 +1,28 @@
 [
   {
-    "time": "2026-11-08 06:57:29",
-    "news_title": "AMD’s Lisa Su Says the Market Is Being “Short-Sighted” About AI - 24/7 Wall St.",
+    "time": "2026-11-09 07:41:28",
+    "news_title": "Why Nvidia at 13 Times Expected Earnings Still Isn’t Cheap - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEhJbGo5Z213RFlZOGstMFRLUW52OVk0NmF1NVl6TlJVbHlzay0tZm4zLVIySnNnSjM2SFduV2psMzk2M1YxVEtSWmpyZ3JCcVQ5MXZFX2ZrdlJkM0t0UDc2a1JvMi03R2xpbVJTeU9PcG5jNTlWVUR3Zi1YVlF6dXhDa2wzM0lOazh5anRyRmlJaTBodFcxUA?oc=5"
+  },
+  {
+    "time": "2026-11-09 07:41:28",
+    "news_title": "Why Nvidia at 13 Times Expected Earnings Still Isn’t Cheap - 24/7 Wall St.",
     "source": "24/7 Wall St.",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUtRdnVJalcwWTMtaTByVU5pT0JSY3dIajRVN0JXQXhkSElzSE5KNWxwTXBZMUJRQV8xWFVIWGdEbmdoUTBQQkdpSkNXNF91LUdGMTc4REI0RnJFQ2pEam43R3ZLeHA5SkVleWQtXzJpWGRIQXdtMHpwT2FKaEk3YVd3SzA2QmlZdW5xMlA1ZXJVWm8xdlJPY01PT01jTThQdDNHaElCNA?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTHhUYzVkM2RpVFVab2JJd2Eza0hydjlmc2I0Y25fdlNtenFjRXhlc19hNG1EYk5hc2c0LWI4UjBhSXJhU2pnLTdtdWRDSGdxNG5zYUFNNXo5N1EtMXlOS0ppdVZTUTNiUWdkMGg5RUg3cnFCZVlfYXRNN203dHZFT1pUc0IxZUczWmV4OUJ1bW52NUtYWS1Ld3p2YmhNM2ZrZlpV?oc=5"
   },
   {
-    "time": "2026-11-08 06:57:30",
-    "news_title": "AMD Shares Jump 5.28% Premarket After Revenue and Earnings Beat Estimates - Advanced Micro Devices (NASDA - Benzinga",
-    "source": "Benzinga",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXpZNTY5SkFIVHFycE11WWtYdFdVeFNkN0w5UUJTUG5yY2tlc0lUOGFkRWQ3ZjFhakFNWm9lZG5WYnZHd3ZrZ25MRm1BeWtsblBod3pNanhLMHFjUEJHM2lGQVNQR3lGRVY0Y1Etai1rRV92UnYyZWxTQ3dhcUo0QkJuX1UzLWlUMDhKUE93ZXZWaE5sOGlCWjVKQ09YcjlKbFhFb3NZLTA1Y01HdElVS2Fxc3RnNWpRYVdIZ1pTd1M?oc=5"
-  },
-  {
-    "time": "2026-11-08 06:57:30",
+    "time": "2026-11-09 07:41:28",
     "news_title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027 - CNBC",
     "source": "CNBC",
     "impact_level": "Low",
@@ -33,40 +33,7 @@
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mMXgyTllzVlZsWFR1UGY5bTVRWWNYRnFoX3pCdDVjNU41Q3VQUTJyb2lTSUs3ZTdBakY3M0RVaERvZUZRMXA2RlhlYTNyeUJnb1MyX0ZjVHJWODNxd0pWbWRHRjNqb0FWVC1xdzdzZ29qQW8wMl9Z0gF8QVVfeXFMTU5rc0Fla1l1QVdxV2I0d3Znd2JCWm1tY1EtdFR6NTNuV0FaYmhWbEVsZUhFYWdNcXZ0ZGlrdWVaZUxnbThKMVR4V290N0hyb3VmSmtRVDFuUC03Yks5b3poak1UNFJoNkE3RHkzWWZMeUFqajFCc0Yzc1BwSw?oc=5"
   },
   {
-    "time": "2026-11-08 06:57:30",
-    "news_title": "Wall Street’s Top 10 Analyst Updates for Nov 4th: Apple, AMD, Adobe and Arista Networks Lead Market Focus - The Globe and Mail",
-    "source": "The Globe and Mail",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcXpiMXVFYTVCa3RFeGlYLVRYaTlhclZHdkZMZFB1SnFXdW9KN0Q3R25xTzRmM1I4RUV4N2ZxMWQtck4zemNjLXZRdFZOV3I5d21ldGtZREx1QzNPYnp0cVphdmdqYXJxM012TDVhQ040Y05zYjJaZW1WbVBWYjl4aGh1UGtPTWlfVV81Z3BQU0MzdGhZcnlybzdDbFl0LVhwWV91TTVPMzIzZ0R0OWVPWVp0SktJLThIOE9iOXB0OEdEVG5Ud1dsTm83ZEducVZTbmtfTUtSWDhIQkZpZTUwTk8yVkx1ODlzcW9XR19DOXFWRkV2UkdyUXNsblNVTnpfMXdLaGt6Y0YtNzZ1NHMya0JqWGs?oc=5"
-  },
-  {
-    "time": "2026-11-08 06:57:30",
-    "news_title": "Advanced Micro Devices, Inc. $AMD Stock: OPTIMAS CAPITAL Ltd Reduces Position - MarketBeat",
-    "source": "MarketBeat",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLTMtZEpHUHFVNnlNbGhtZmlOeEhVTF84dkNEZXJHczVKSTQ3WnBoU3VLTVQ3V0FjUy1FNnhyd2RjRFJsazQ4NEx6eXREUHBYeEh4b0o3RzRuRXczMWV1MG5fSkxWSEVOUzBFczhpdHQ3bkdsdDRYYVZuMDZEX0V1aEI4bUlLWUtZcFNqZE9WNWJabnJVVWhOaG9rSVF0WlZJTjRJcEpYLWpQOTY4elY2c3RRTERzdUttb24teDBicDdVdHI1dnJNcngwSkdUMzg?oc=5"
-  },
-  {
-    "time": "2026-11-08 06:57:30",
-    "news_title": "AMD Earnings 'Were Good,' Says Analyst Even as Stock Sinks 9% After Hours: Wall Street Wanted a 'Blowout' Forecast - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXRsQklURDZWOGc4ZHhfQzZmMDFrY3VEYUFKY0J1bTAtbXZPUm5IWGV4ZVBZcm9jQ2YwdlNFYndSaDMxNU1iRGIxaVNldHphWmMzT2xLOEprcWJtWG1VYmQtV3IwWlZ2TTB6ZTlFYnNONTVIa0x6elY1bF9pR19MNjNwbWJIZjVMSjNTOFoxdTY4WndrMkYw?oc=5"
-  },
-  {
-    "time": "2026-11-08 06:57:30",
+    "time": "2026-11-09 07:41:28",
     "news_title": "Here’s How Much Traders See Intel Stock Moving After Earnings - Investopedia",
     "source": "Investopedia",
     "impact_level": "Low",
@@ -77,7 +44,18 @@
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX001WEVmT0JLdU9fbVRPdHJaazV4MlFENVZCM1QyMlhPWFRjZ3pGam1VbHV0bFE3V2hQZnItSzIxNmFUVEh4RG9PWUEtSXVDZVU4c2RlVWcxeWRacXYyV3U5WWlFSFdlVDRCRmdZc3N0Q1dlUmpBRENtVjNmVUdfb2hhVHZZcGhGM1EyVnFWRThVSzhTWkhIYS1zVm5UbkF3TmdieWptanRPVFpQQWpFQ2hIRG9QRmFDSjVjZHRiNA?oc=5"
   },
   {
-    "time": "2026-11-08 06:57:30",
+    "time": "2026-11-09 07:41:28",
+    "news_title": "Advanced Micro Devices, Inc. $AMD Stock: OPTIMAS CAPITAL Ltd Reduces Position - MarketBeat",
+    "source": "MarketBeat",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLTMtZEpHUHFVNnlNbGhtZmlOeEhVTF84dkNEZXJHczVKSTQ3WnBoU3VLTVQ3V0FjUy1FNnhyd2RjRFJsazQ4NEx6eXREUHBYeEh4b0o3RzRuRXczMWV1MG5fSkxWSEVOUzBFczhpdHQ3bkdsdDRYYVZuMDZEX0V1aEI4bUlLWUtZcFNqZE9WNWJabnJVVWhOaG9rSVF0WlZJTjRJcEpYLWpQOTY4elY2c3RRTERzdUttb24teDBicDdVdHI1dnJNcngwSkdUMzg?oc=5"
+  },
+  {
+    "time": "2026-11-09 07:41:28",
     "news_title": "Sandisk Corporation (SNDK) Up 23.6% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
     "source": "Yahoo Finance",
     "impact_level": "Low",
@@ -86,5 +64,27 @@
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZmVEdWhOQTdra3NZUFRERnlWclhaYUJueXlVS1BrSS1NNDFyX0d6elgzZFhjMTRJTGVYbzVSd0oxX09sbFVOOUlhME1jeG9OYzRDUGFscjlnYl9ISl9fOFpmVDFzUkpOR0FtWXRJZkltQ3dfWFI1cnpuamhoYTdWMll3N3ZyZVFUUlZzdjhPV19IUGk5dWJOQ1Zn?oc=5"
+  },
+  {
+    "time": "2026-11-09 07:41:30",
+    "news_title": "Advanced Micro Devices, Inc. $AMD Stock Position Boosted by Calamos Advisors LLC - MarketBeat",
+    "source": "MarketBeat",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaHVtR2FueUpzV0tRUVoyOFBITW5RQXZRRVJKeEhvYVY5bnBtVG9RX0F6RUZ6X0daOFBNTHJvRlR0dHdtbzNIa0ctbkNoT0tkN3ZyTWh4N3N4T1pobkp2LUxqb3JpQy1WWDBDQUtsRVNIaGJEdTg2NXBhRm9jWTNmWV9mejd2cFAwaTB5Wi1fdWtwbEJDR2w1cHVWeU1KSU1tRXNVQ1NLY3N6RGdqbHI1ZnRkaEpnU3M0UGRBbEVQVTE5dlhwUUxPcXJMbV95eWsxMnlhVA?oc=5"
+  },
+  {
+    "time": "2026-11-09 07:41:30",
+    "news_title": "Here’s How Much Traders See AMD Stock Moving After Earnings - Investopedia",
+    "source": "Investopedia",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDJpR25PX2FpeFlvMHhRV3NqRVhVcFNhS2plRWktT3U0Q2hRellLd1o2cGsxbDNhb05VeXRUY2Nta2l3QkFjeUlsMzZvbXdvZ3U4OXktU0hVSTJ6eUhhcjlMX0VuemtyQVBfSFljYzJXQjJ6UkxyR3hLRGxTRHFzam5YcHh6WW9XWHRjS1BTeUQ4SkY0UkxSWEhYVENFUUU0dHp6LWlQdE1fZTZf?oc=5"
   }
 ]
