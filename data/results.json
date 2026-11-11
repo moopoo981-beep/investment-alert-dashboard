@@ -1,17 +1,50 @@
 [
   {
-    "time": "2026-11-10 08:01:54",
-    "news_title": "Intel Corporation (INTC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "source": "Yahoo! Finance Canada",
+    "time": "2026-11-11 07:31:36",
+    "news_title": "NVIDIA Shares Rise 1% After Hours After Sharp Sell-Off and Leadership Probe - NVIDIA (NASDAQ:NVDA) - Benzinga",
+    "source": "Benzinga",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUFNnaWVBSmp5dHI5MTB3ZVJITUdsd1o4MWp0WVdWRDdGcFF0YV9CTHVuREphX2pfQU00akpMRUlFUEN5TDUtTE5ycXBXSUdUNm5wYTNYcnZlSGFwcktwblRYcG5SZjhMV3N1a3A2RlhGbEJQbnNMNU1Wak8wazdnbGJIdjdoQkFXMnUtbE94Mi1jX0dFU1l1TjFxVGJEVFdLb0FUQ1V3aXhkc0FvbS1KVU1JQ3lvenpYREtmWFFNZlVlZw?oc=5"
+  },
+  {
+    "time": "2026-11-11 07:31:36",
+    "news_title": "Nvidia Stock Falls as Citi Trims Price Target Ahead of Earnings - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2VNNzU0MmJuaF9rYmFWWWdPZnd3TzMxVi1yck9hRXlSVVlYTXQ0NlM0Zl9uSHhpalVXWFRGM3dSd3lnbHpmRUtJZmRrU2Rsa1A2RUhfTHF0eFhNZk5va2VpUmtxLWNicC1hZVNxMjZRUEpnYTQ2OEExTUt3bmtwZUlXNm9CM24xSVRrWkY1WHNZcktMSmNES2x3?oc=5"
+  },
+  {
+    "time": "2026-11-11 07:31:36",
+    "news_title": "SNDK Stock On Track To Revisit August Levels Despite Earnings Beat - Stocktwits",
+    "source": "Stocktwits",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdVN5Ql9MbGVXaF83eXBGekdDRDUySGtyLVRLdkhNSUVPckJ6T2xUaGdpbmxFVWl2MzBmbmpaRFpPSEF4QzdLVHlrRWtjSXhQcXRKOTg1UVAtUDA1Mk1uLWpPclh3b042T3hiRVV5YnlwalotR3NqLVFYejJ6d3F0OUppUjJPRjdOVXpKZWgzQzFvUHduQlM4NHFhUzlYOW9haVVKQjVLWGtVUnZ0VXdqOUlVQ00xX1hZNnc3czNXRkpaelc4RnZaWl83ZXhUN1Zob2hkWUJHeTBlcGJFb21jVGRRUGJaSGt6QlNSWHF5V2h1VEdqUHEwXzY0dVhBYmxqWUY5VEVqU2hpN3FORUpZ?oc=5"
+  },
+  {
+    "time": "2026-11-11 07:31:36",
+    "news_title": "INTC Stock Quote Price and Forecast - CNN",
+    "source": "CNN",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GNmJJZ1JaX0dkMjlYU1h4cW9JdzhibHV3ZTIwN0ZlOEpNSmtZaVdUaW81aGdaMndWd1dyMC1xWXFNSVlUbEk3WmJ5aEktWVp1NEE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lWkZjY0djMFFwSUlhcXJYVkRXQlptNHppd1R5NFlzSm9UckZacWJERUZpdWw5WlViaENhblBac0hQZ3BNdmZUZ1VONmU1dHp2?oc=5"
   },
   {
-    "time": "2026-11-10 08:01:54",
+    "time": "2026-11-11 07:31:36",
     "news_title": "The Trade Desk's jump came before its earnings report - Quantisnow",
     "source": "Quantisnow",
     "impact_level": "Low",
@@ -22,69 +55,36 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOEt3TE1KbjIzbzhjdWptMmFwMWZySXh6MVJhLUo3eVNsWTlFVVB4cXpPbmlfUXpBVWdIdmdjeTg5Q1lPemVVN0NSRFY1aHRHVjFqU29qZWZEdTh0MFd2TXZOdy1XYXFpZ0pBYkVkQUdQZTBvUy01a1N0YjlKYzl1T1ljX3Z1bXJRdjZwOFd0eWs2QXRtcXh6ZkZGQmtZQlNvTkh3OVZR?oc=5"
   },
   {
-    "time": "2026-11-10 08:01:54",
-    "news_title": "Nvidia Stock Is Heavily Discounted. Here’s Why Analysts See 80% Upside. - Barchart.com",
-    "source": "Barchart.com",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemVqVVlwZ05RWE9YR0ZzcHhrUUJhWnh6UHNPQ25uQlBldUtxWGxZWGRrUGVWQzdQd0JFSkV2cVdKQTlac3FSSmdkeUNvcWJxZ2RFTlkwM01raUNnWk9mdE81VHYzRmZCSjMzcVJYLXV6eFBiY1RfcFZkc1JYbHNkR3hqeEpCRTQxcFRvMnhGU0g1cG1DUzZ5VHhfOHZoUXlXOWVtUDlZTzlDNkhNQU9ZSg?oc=5"
-  },
-  {
-    "time": "2026-11-10 08:01:54",
-    "news_title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027 - CNBC",
-    "source": "CNBC",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mMXgyTllzVlZsWFR1UGY5bTVRWWNYRnFoX3pCdDVjNU41Q3VQUTJyb2lTSUs3ZTdBakY3M0RVaERvZUZRMXA2RlhlYTNyeUJnb1MyX0ZjVHJWODNxd0pWbWRHRjNqb0FWVC1xdzdzZ29qQW8wMl9Z?oc=5"
-  },
-  {
-    "time": "2026-11-10 08:01:54",
+    "time": "2026-11-11 07:31:36",
     "news_title": "Why Nvidia at 13 Times Expected Earnings Still Isn’t Cheap - Yahoo Finance",
     "source": "Yahoo Finance",
     "impact_level": "Low",
     "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}",
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEhJbGo5Z213RFlZOGstMFRLUW52OVk0NmF1NVl6TlJVbHlzay0tZm4zLVIySnNnSjM2SFduV2psMzk2M1YxVEtSWmpyZ3JCcVQ5MXZFX2ZrdlJkM0t0UDc2a1JvMi03R2xpbVJTeU9PcG5jNTlWVUR3Zi1YVlF6dXhDa2wzM0lOazh5anRyRmlJaTBodFcxUA?oc=5"
   },
   {
-    "time": "2026-11-10 08:01:54",
-    "news_title": "Here’s How Much Traders See Intel Stock Moving After Earnings - Investopedia",
+    "time": "2026-11-11 07:31:36",
+    "news_title": "Research Analysts Offer Predictions for AMD FY2026 Earnings - MarketBeat",
+    "source": "MarketBeat",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcEYzZDlUaVpUYko3SnlhZFcwckRSTWNlaVV5cjBNTzIzcGIyT3NZZ182OWhWeVBYYTNVdG53THQ3U09Zc0hsSmNnbUdzT3VBWllrampyM0tWYmthZjRzYUg1bEFMRXVlS0RYeUg4QzBLaWJySVpzb1FaYXhyOGNRdjhGOFF4QkxHczlIazhUNGVwZWxYMGxwS3FfQkttSENLRE5NelhGR1Z2TTBTb1dnUHBPMnpVUU11a2FLMmRZdEw?oc=5"
+  },
+  {
+    "time": "2026-11-11 07:31:36",
+    "news_title": "Here’s How Much Nvidia Stock Is Expected to Move After Earnings - Investopedia",
     "source": "Investopedia",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX001WEVmT0JLdU9fbVRPdHJaazV4MlFENVZCM1QyMlhPWFRjZ3pGam1VbHV0bFE3V2hQZnItSzIxNmFUVEh4RG9PWUEtSXVDZVU4c2RlVWcxeWRacXYyV3U5WWlFSFdlVDRCRmdZc3N0Q1dlUmpBRENtVjNmVUdfb2hhVHZZcGhGM1EyVnFWRThVSzhTWkhIYS1zVm5UbkF3TmdieWptanRPVFpQQWpFQ2hIRG9QRmFDSjVjZHRiNA?oc=5"
-  },
-  {
-    "time": "2026-11-10 08:01:54",
-    "news_title": "Here's How Much Traders Expect Nvidia's Stock to Move After Earnings - Investopedia",
-    "source": "Investopedia",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHF1MWpQNF9pZ1UxVnVYcjRGLWNPVHR4enhuYjU0UnJWMTZZa0YtTnU2bFJMQVVwdE5YWElkSnoyWEhDLVJkdUoyN2JlS2J5VmlnaXB2TEZhajVtZ1B1VlZMMDhHaFYtTlBoMEhwU05ha2p5N0xSWWZFbnZxTEpieVRGXzhmSjlUd3BxSlJMWC12UEFnRF9jbjU5VmF5YkdNYzZZT3phQVFYbUlGQ25YaEgzZnN6Mjk1V0NObzFYbVF1TVAxZWc?oc=5"
-  },
-  {
-    "time": "2026-11-10 08:01:54",
-    "news_title": "Sandisk Corporation (SNDK) Up 23.6% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZmVEdWhOQTdra3NZUFRERnlWclhaYUJueXlVS1BrSS1NNDFyX0d6elgzZFhjMTRJTGVYbzVSd0oxX09sbFVOOUlhME1jeG9OYzRDUGFscjlnYl9ISl9fOFpmVDFzUkpOR0FtWXRJZkltQ3dfWFI1cnpuamhoYTdWMll3N3ZyZVFUUlZzdjhPV19IUGk5dWJOQ1Zn?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUVrUnBqVHJPeXJmX1FJcmRUZ19XWmJkZU5RcUJLbUxIc1pLOTdiME5Kb1NXTTEyNFdPVjhrZlNnTXh0b21zcmMtSGxzMmhFNW5EaHdRVFVqT21vdU90ZDlaSVUtb29EY25hQVJXV3NiN2lTOVVDZ2hjZ2U0Qjk0YTVwWHp2b25MRmlqS0g4QVNpVVdMUVFMOHFQU0RDZTdqSlpRTEZqdnp5RHdTQlhVcDFEd2gzN3NCXy1DdVBERTVtQQ?oc=5"
   }
 ]
