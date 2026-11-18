@@ -1,6 +1,50 @@
 [
   {
-    "time": "2026-11-17 08:51:11",
+    "time": "2026-11-18 08:14:46",
+    "news_title": "Nvidia Stock Rises On Report. Board Says No To CEO Return Bid. - Investor's Business Daily",
+    "source": "Investor's Business Daily",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEx5ajRyZTctMzlRWGYyelF2RHNJcEEzd3I5alJ1YktQb1NqcFgxR3NPZVpMZUFMZzdhVTlMRkxxRG5kZVBhcG1qNTMwYlEybVN5NVhUazJYX0NPUVVHc1E1Mms5SXVuWHZVakZBZ0M5ZU56U01fRzZxVjBGeEEzcU9WU0phOXc0S0I0dHNBdUNPNC16?oc=5"
+  },
+  {
+    "time": "2026-11-18 08:14:46",
+    "news_title": "Nvidia Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call - Benzinga",
+    "source": "Benzinga",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNkZtLTBmbWZlWWROT05ZbHdEZFZ4QmRUdm1LQmRwcG85UWdwZ3NmX0VjRlJOTHByTklNalprNnBydWdxRVpBQ0RMS0Q3cXp1ZVM4TUxUaFpIWXA3Um1ibG93MDhjRXBUcVZDQmFHR3ZkRjVtRHRsc0tYeXgxczhUeEJBZktacW52N2tCZ2Z4dXZqSzg1QzFwNFg2cU9DNjBaNk9xazZaTlFrZVBlSF85U1FyYkF4eGUta2RqaE9jTmlnQ2FYd1RNZUU1WXd4dDMtSTJWV083cllQM0E4R092dXNILUgwb1RXRXBVUEJfSEZLeGUzRVRyblNrUWhwWER3UC1jag?oc=5"
+  },
+  {
+    "time": "2026-11-18 08:14:46",
+    "news_title": "NVIDIA (NVDA) Stock Rises on Q3 2027 Earnings - Quiver Quantitative",
+    "source": "Quiver Quantitative",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3RwcnNMQk5FaGg1SXpwVXh0QVFOSnN3YmU5aWtZVFo3U3NvMFpycDktcGVITTdybTE4QjRUa2hBUVdESjF3REpoT25ZVVMwT21jQW5wZnkxaW1hLTlTVXNhTHhJZ05SNHdkUlpscWRDc0NNWHJvS1prTEEwR2JFVEFBUnZWbWF0dnc?oc=5"
+  },
+  {
+    "time": "2026-11-18 08:14:46",
+    "news_title": "INTC Stock Craters Premarket After Q3 Report: Analyst Says PC Market Softness Will Stunt Growth, Slashes Price Target - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVZITE5QcklPaU9FeVZZUk04Z2QxaHM4QUJpcHYyNk56SjJBLXdDVE9IWk5KQmZKLXRGcEhmV2tKQ2RRNVlQWnM5b3k2ZlpwN0xZbjVqcTc3QXpRcGlJVjVXLVlWMjZ1RzVrZG82SUtkdmdSSzQ1Y3Frekx1Vk9EdVpXTUIyV0ZBVDNnNlVEZ1BiWE1iOFFreXllNE4?oc=5"
+  },
+  {
+    "time": "2026-11-18 08:14:46",
     "news_title": "Nvidia Stock Looks ‘Compelling’ Ahead of Q3 Earnings: Analyst Sees 60% Chance of Beat and Raise - Benzinga",
     "source": "Benzinga",
     "impact_level": "Low",
@@ -11,29 +55,18 @@
     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbTVhQ2NQOHZJcGlxSWYwRGkwempvVDZOMXJZSzNVZTU1OFFUZkVwVlVhLUJKVnFDZzNFcVJDTHJTRzU1RVlxN2lWbW4zX2hSaGN1RFRYRXBzS2p5Mk9abzRHa3FudndHT1JtZDhqbHlpMVRETS1xbXVQX3RaQk9WeXVlTHNLRjlUMzlQWkQzaTB6dGNoai1MaUxLN0d4SXQ5SXhFMWswMmcyc2Nlb0VHTFEzMHA4Y1NjdHFtOXN3SnA1bm43RGl4aXhhMHl4bGNjcGVJWU9MbklhZzQxOGszVEpSMXlEekg4M2xUbmhDUmRtdEtSdFNlRWpPbw?oc=5"
   },
   {
-    "time": "2026-11-17 08:51:11",
-    "news_title": "NVDA Earnings Preview: Nvidia’s AI Engine Is Running, But Can It Keep Growing Without Its Chief Architect? - TradingView",
-    "source": "TradingView",
+    "time": "2026-11-18 08:14:47",
+    "news_title": "SNDK Dips Premarket Despite Strong Q1: Analyst Sees Memory Pricing Peak On The Horizon - Yahoo Finance",
+    "source": "Yahoo Finance",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWFk2UmhQRTVTeXlHSmNoWW5SRkItMlM2UFI5V1BkV2pIb2pkUDZfTVU0Um9sbjNvWXB3T1RvY1oySHF5TXZMem9CN3VNTGQ4NXUwcF9NQkpDeWlhT2cyLTlrci1TdF8zSEc2MDZmQlo3WXVJdWxoM2VNTlIwRVFSV0oyVV84cW1jSVREN1hVdkJGLXBWSHk4WS0zT1dtNUVQOVlNcWU4Z2t1REpNUndQdTlDUjJWRDB3dER6eFJkMFdlbVNWWUhlRjdPeFFwSXRQMkNoTVFwYlZkQWdpczgtWlVrYXhtUHZ6TTdueTNweWRieVZoQl80?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDlwRnRJVWcxQ29DUFdud0RIX1ZEMGFnTFRsamFmV2kwaDJXd1NPQUZxcmg2a05PSWRwbDQ1YWoteW5wMzA2Zmw0YXk3elVrc2YwbUhMMDFfWm42OHNheThRa1dDLW8tTTlfUHJ2REJDVVZuZV83Vnh0QUVtNkZMVTVkSXhwR3luU19CSEIyS0dONUhuSUlfeEMzajNZLW14?oc=5"
   },
   {
-    "time": "2026-11-17 08:51:11",
-    "news_title": "NVIDIA (NASDAQ:NVDA) Stock Price Down 4.1% After Analyst Downgrade - MarketBeat",
-    "source": "MarketBeat",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZklnMFVveVkycVppUzlFNlc1MkdGaVh1d1E4UzFaNlFTcnRFYUVyV21wWTk0d0I0NnJEeUN0VDZlQUlhTUxBeGxxcUd6NlhvQjFxaEthNHVCZ0tfV2VwR0NGLXRudlRLZnJJdTl1dTdZUmRtd0NDZGFZdGJwQmdJZGpPdVAzeHJvU0E3OUxxUGY5d3NtSUoxaG5ZNkgtaGVDVDBMQnFaODd0MUREb1JUZ0Rqd1ZLVHJETHpQTi1TWQ?oc=5"
-  },
-  {
-    "time": "2026-11-17 08:51:11",
+    "time": "2026-11-18 08:14:47",
     "news_title": "Advanced Micro (AMD) Q3 Earnings on the Horizon: Analysts' Insights on Key Performance Measures - Yahoo Finance",
     "source": "Yahoo Finance",
     "impact_level": "Low",
@@ -44,47 +77,14 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZHdjNVhEWXoxWDNKbVJEbFd3eEVkekVLWDV2WC1ZcHo0bWhDLThMN0FqWXdUSTdxTlhMbHB5aGVNdWxLV0NiYnNmQlRMd0tRTHVuamJ0WGZzcmM2TDJMNDZBT0dsam8xeUMwaGlOQzZsZHdJblEyVnVjbWFTR2NLZG11LXdBRGRlMXBQUUl3cENrcm53X2pOeE91cw?oc=5"
   },
   {
-    "time": "2026-11-17 08:51:11",
-    "news_title": "Here’s How Much Traders See Intel Stock Moving After Earnings - Investopedia",
-    "source": "Investopedia",
+    "time": "2026-11-18 08:14:47",
+    "news_title": "Sandisk stock sinks as revenue forecast falls short of expectations - Yahoo Finance",
+    "source": "Yahoo Finance",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX001WEVmT0JLdU9fbVRPdHJaazV4MlFENVZCM1QyMlhPWFRjZ3pGam1VbHV0bFE3V2hQZnItSzIxNmFUVEh4RG9PWUEtSXVDZVU4c2RlVWcxeWRacXYyV3U5WWlFSFdlVDRCRmdZc3N0Q1dlUmpBRENtVjNmVUdfb2hhVHZZcGhGM1EyVnFWRThVSzhTWkhIYS1zVm5UbkF3TmdieWptanRPVFpQQWpFQ2hIRG9QRmFDSjVjZHRiNA?oc=5"
-  },
-  {
-    "time": "2026-11-17 08:51:11",
-    "news_title": "Intel (NASDAQ:INTC) Stock Price Down 7% - Here's What Happened - MarketBeat",
-    "source": "MarketBeat",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRXBFWVBNQmh6NGJLOE1wM0VXWW1DVW40TlBCX3F6eFd1SkZhamdYUEpNc2tFNTA0RGtTVGFYSjhDcS05RTRuQVNSeVhqbFhuQnlhSXk5V1V4Y3IwR0NqRHc5b1F4MFRXaE41Y0pTMWhoTGxENEVGaUtWUVl4RThxYmJ3dHRLa2tyU0tLTjNyUE1KckJIN2VaUkxhMGNkTGdNNzNwaS1Ya0JHUHRHaXg3bXhfVEJMMzA?oc=5"
-  },
-  {
-    "time": "2026-11-17 08:51:11",
-    "news_title": "Sandisk stock sinks as revenue forecast falls short of expectations - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYWlWLVZzUlhwR0dnVlBmX0xDN3RqSm9PVzFIU0ozY0tiUWJtRDM4YUxIbHVyUDlJU0k5MDVpS3NDU3FoZ3IyYzQyQmlYTXlGMDVKZTJfdEhtMWtpdC1WMDZ0MV9fc29ST0drR2swZFdTbkpmVmtoTkhWMnNJYzZ3d25qdHZpaF9nYXRUcUVzWDNja3VLWHVqem9XVzlXMk4wQzNvdlhwejlsZkdLQ0I3MUFCRHRoVWtzYlRLUm1rS1hqZXVBVDJSNnZjSQ?oc=5"
-  },
-  {
-    "time": "2026-11-17 08:51:11",
-    "news_title": "How Much Is AMD Stock Expected to Move After Earnings? - Investopedia",
-    "source": "Investopedia",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa1NPOV9JWGFfWWxDclRkVnVCOHE5NEFoRlBqcVh6UEdFYi0ybDY2UXNFRHFTY2dHNVNfQm9zZ243U2VOYzFFeUtUVEFRel9SX0MtUk9YVFAxWU9PcTZUQW9iZndHdFZDdHpjQkc2SUJWN0Uza1hUTUkzQ1pKYUVOaVVqd1lJaEhWTGdwczZvRTBTM0liQ19CY3M0VUtSWlhQMXhjOHprbTZ2VEhz?oc=5"
   }
 ]
