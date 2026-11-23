@@ -1,61 +1,17 @@
 [
   {
-    "time": "2026-11-22 07:48:54",
-    "news_title": "Nvidia Stock Just Got a Stunning Price Target Hike After Strong Earnings - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0pETS1jTGZ2TDBON083RDBLaG1pazhhZ2s1RFFLWGdubHJuakFpVUVjcWNrV054anJ6SzBrRm56RndaTlZ2TmU4eERpYTROaTA2amlwZTJqdTd3NS1xVlpkM1RCWUFPQnpKeXdaVENtbUU2elpadjcybERvZ19lRktHeG5kMGoxMjV1dmNlbXZTaWdIdlVrR24xQQ?oc=5"
-  },
-  {
-    "time": "2026-11-22 07:48:54",
-    "news_title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance - CNBC",
-    "source": "CNBC",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlczFWcC1WVTdsdENmNVdsNnJpczI0SzZqRkZuel9NLTdsUG85UlJDVEV4NllwUmRUXy1QZGV6ci1BamdFQTVtQ2hlelhiR21LNzJsQ2dCSzdTc1JCQUdDVU90bGY2a3hIeldPa043TnYtelgtZFh2b04xblrSAYIBQVVfeXFMT0lPRHpDdlR4ZlpnZWc1SS1mTHNjZGE3VVItSnA5bndoU3ByQVFPa2Rzakx2QlFoWW52ZVM1dF9aWjdlczFEby05eHhwaEQ5YllseUJlbjkwRzNva0VWdkM0Tkp3a2tZcTZydktHUXdmZEZwamdwMTBuUUNwY3hDZHRDZw?oc=5"
-  },
-  {
-    "time": "2026-11-22 07:48:54",
-    "news_title": "Advanced Micro Devices, Inc. $AMD Stock Sold by State Street Corp - MarketBeat",
-    "source": "MarketBeat",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeU5MUS1mRDZWOGxJa0lKMzVxWnhac0VmUFVHd3J4ZGRtNTNBeE1ZUEs1M0EtWDRSdXpMTmVNdzBWdE1zektEWGpUUkRTOXlMbjl3X2hCUmswM25vNFNwU0JxbGY3amxOTExLLUNHMTRRa2tES1J5NGRmYzdVSnlyckx4QTc3VUZvQ01kcHpQTm5jSWxySk9qRHU5YnZhTnV1STVjZEk5NGNydWpJSFJLR2RrZldlWlZpclN3UklLYWQ?oc=5"
-  },
-  {
-    "time": "2026-11-22 07:48:54",
-    "news_title": "SNDK Stock Set To Revisit August Levels Despite Earnings Beat — Analysts Flag Valuation Concerns, Slowing Earnings Upside - Yahoo Finance",
-    "source": "Yahoo Finance",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkxHb0RtS0kzMDFGTURLRnhsVXl1em1xYWtlMUtJa213djIxb1NsUk5sbFc2QU84cjZONWQyc0VjZ3czUzM0d3pwUFlCWUVQbC1jQW1YdFM4MTNqV2lBQTRmSGRHRDF2WHVBeFlrS1N0X0R5SWpELTJxRFlqaUxfZVFzdllNNWd3Qjl5YTJPbUxZaGp1Q3ZMZFNn?oc=5"
-  },
-  {
-    "time": "2026-11-22 07:48:55",
-    "news_title": "Here’s How Much Traders See AMD Stock Moving After Earnings - Investopedia",
-    "source": "Investopedia",
+    "time": "2026-11-23 08:37:59",
+    "news_title": "AMD Stock Quote Price and Forecast - CNN",
+    "source": "CNN",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDJpR25PX2FpeFlvMHhRV3NqRVhVcFNhS2plRWktT3U0Q2hRellLd1o2cGsxbDNhb05VeXRUY2Nta2l3QkFjeUlsMzZvbXdvZ3U4OXktU0hVSTJ6eUhhcjlMX0VuemtyQVBfSFljYzJXQjJ6UkxyR3hLRGxTRHFzam5YcHh6WW9XWHRjS1BTeUQ4SkY0UkxSWEhYVENFUUU0dHp6LWlQdE1fZTZf?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBndUxfbjJEeVZYMi1wd2lPajZ3LTVYZkF0NVZ2Q1RuNDBPWkhGN184UlFoQ09FdmNBdl8wNFYtMURTNUU0Qm14aWVwcXFuV28?oc=5"
   },
   {
-    "time": "2026-11-22 07:48:55",
+    "time": "2026-11-23 08:37:59",
     "news_title": "AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate - CNBC",
     "source": "CNBC",
     "impact_level": "Low",
@@ -66,25 +22,69 @@
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfVXVMaFFzOXpSSmhDS2xlZWZLZDk0V2w5MHpTSnZ3d2c5bkMzRDhwbzhURWpMMVcwX3ZiME8ybmU4UHR1ekdtVlUwRTYxcTI0T1dadVhheUQ0LVVpWnRqYjdmeDkxMGJKQXBkNUtpaEVKZVlXNEhYRdIBfkFVX3lxTFAwT0pLTUtFX3FhLU4tWFFuU3JjMXF4NWxpWFNVZEoxeTdqMVc2d201ZHRMdXV4cEg4VGNnd0RDRmhKbnNYZndMa1hhMzZ3Y0lUdk82SUprYVVibVZQT19vR05WaGZKZlBzcDFLZWNzczZkb0pDN180UTZ5MTRuUQ?oc=5"
   },
   {
-    "time": "2026-11-22 07:48:55",
-    "news_title": "Advanced Micro Devices, Inc. $AMD Shares Sold by Allianz SE - MarketBeat",
-    "source": "MarketBeat",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRzl6d1VQdVJQNmlPS2FIdUl4c0dVMjBnVXNaVlo4VkxHaGRoQ3NZcXFwWEF6RzFJdkkzREpFNWhpV19zdDVVako3SmlTajdyRThJazdBSUVLUmxHVXBuRDJ5S2UwTkpPdlhRQ09yN21QYUdYbnhhZmtobnFwVVpTVThXU1BicHdqb3NIVmpsWmVlSGV6NXRMUmliQk44Z29BeTluVFJ0cFJ2aTRaNFJrYXNUQS14NVJa?oc=5"
-  },
-  {
-    "time": "2026-11-22 07:48:55",
-    "news_title": "INTC Stock Craters Premarket After Q3 Report: Analyst Says PC Market Softness Will Stunt Growth, Slashes Price Target - Yahoo Finance",
+    "time": "2026-11-23 08:37:59",
+    "news_title": "Don’t Ignore Sandisk: This Upcoming Catalyst Could Send SNDK Stock Higher - Yahoo Finance",
     "source": "Yahoo Finance",
     "impact_level": "Low",
     "affected_assets": [],
     "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVZITE5QcklPaU9FeVZZUk04Z2QxaHM4QUJpcHYyNk56SjJBLXdDVE9IWk5KQmZKLXRGcEhmV2tKQ2RRNVlQWnM5b3k2ZlpwN0xZbjVqcTc3QXpRcGlJVjVXLVlWMjZ1RzVrZG82SUtkdmdSSzQ1Y3Frekx1Vk9EdVpXTUIyV0ZBVDNnNlVEZ1BiWE1iOFFreXllNE4?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDVISmlDb2NjUmVnSXZZZG12VmIxaVkwbVRKc0hnd1RoZ3NocTRHam80djdTS2hRc0ZLdnBOelNwVzJzb2pZVnpjcmlqNWRLdmNYNm9pU2ZFbTAwRW9xTVd1SWZ6UU92THVEWmRTWGV5TWlneDJCUVl2Q1dFaTRWWVVybG0xQ2dRbUlVNl9ld0dIMHJIc1ZHenpn?oc=5"
+  },
+  {
+    "time": "2026-11-23 08:37:59",
+    "news_title": "Advanced Micro Devices, Inc. $AMD Stock Sold by Cvfg LLC - MarketBeat",
+    "source": "MarketBeat",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTThjYUJqeU1jTE9RWGVhUUw3TXJmakYycVl0Qzljd1lDaml6dFJKN1c0UGswU0lueVByd1JWWWRGREk2NHR4Rmh6MWFqLXh6Sk1VOG43WlFLSG5VRExyYXJ6eVRtNjBLM25Oek1VREpiVXRSV19NTlprNjZwZ1FPYmNSV0VQQVlXNEpacUlVdFRjT2dZdUlKLUhnUFc1dGNZVTh1c3NTX3Vzd0t3LUg2ZlJjNnE?oc=5"
+  },
+  {
+    "time": "2026-11-23 08:37:59",
+    "news_title": "Here’s How Much Traders See AMD Stock Moving After Earnings - Investopedia",
+    "source": "Investopedia",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDJpR25PX2FpeFlvMHhRV3NqRVhVcFNhS2plRWktT3U0Q2hRellLd1o2cGsxbDNhb05VeXRUY2Nta2l3QkFjeUlsMzZvbXdvZ3U4OXktU0hVSTJ6eUhhcjlMX0VuemtyQVBfSFljYzJXQjJ6UkxyR3hLRGxTRHFzam5YcHh6WW9XWHRjS1BTeUQ4SkY0UkxSWEhYVENFUUU0dHp6LWlQdE1fZTZf?oc=5"
+  },
+  {
+    "time": "2026-11-23 08:37:59",
+    "news_title": "Advanced Micro Devices, Inc. $AMD Shares Sold by Allianz SE - MarketBeat",
+    "source": "MarketBeat",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRzl6d1VQdVJQNmlPS2FIdUl4c0dVMjBnVXNaVlo4VkxHaGRoQ3NZcXFwWEF6RzFJdkkzREpFNWhpV19zdDVVako3SmlTajdyRThJazdBSUVLUmxHVXBuRDJ5S2UwTkpPdlhRQ09yN21QYUdYbnhhZmtobnFwVVpTVThXU1BicHdqb3NIVmpsWmVlSGV6NXRMUmliQk44Z29BeTluVFJ0cFJ2aTRaNFJrYXNUQS14NVJa?oc=5"
+  },
+  {
+    "time": "2026-11-23 08:37:59",
+    "news_title": "SanDisk to $2,000: Why This Analyst Is Betting SNDK Stock Can Still Almost Double — And Putting Up the Highest Price Target on Wall Street - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0JyMzhtSVY0cHVaTlB1eERmZnJCM25zVFdUR3hxZnNrb25vaENyLWppSk5UZUZiQlhVMzFWNTJaQzExbjFIM0U5b05yeEZYNkhOMVloTkJiS2FQMVd5R1hLOW1mM3B3bEhqMnFlbUp1YU9RMF96N2JLM3M0dE1SSjh4Wmk4ODB1M3dORzBBM182c0ZI?oc=5"
+  },
+  {
+    "time": "2026-11-23 08:37:59",
+    "news_title": "Here's How Much Traders Expect Nvidia's Stock to Move After Earnings - Investopedia",
+    "source": "Investopedia",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHF1MWpQNF9pZ1UxVnVYcjRGLWNPVHR4enhuYjU0UnJWMTZZa0YtTnU2bFJMQVVwdE5YWElkSnoyWEhDLVJkdUoyN2JlS2J5VmlnaXB2TEZhajVtZ1B1VlZMMDhHaFYtTlBoMEhwU05ha2p5N0xSWWZFbnZxTEpieVRGXzhmSjlUd3BxSlJMWC12UEFnRF9jbjU5VmF5YkdNYzZZT3phQVFYbUlGQ25YaEgzZnN6Mjk1V0NObzFYbVF1TVAxZWc?oc=5"
   }
 ]
