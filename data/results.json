@@ -1,90 +1,13 @@
 [
   {
-    "time": "2026-11-26 09:12:14",
-    "news_title": "Prediction: AMD Stock Could Rally 58% as Analysts Maintain Strong Buy Rating - Yahoo Finance",
-    "source": "Yahoo Finance",
+    "time": "2026-11-27 09:29:20",
+    "news_title": "ไม่พบข่าวจาก RSS",
+    "source": "System",
     "impact_level": "Low",
     "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "analysis_summary": "ระบบดึงข่าวจาก Google News RSS ไม่สำเร็จหรือไม่มีข่าวใหม่",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWkxOdU01SzNIV196RU9WazhvcnhyeGs0QlJBdW5neUg5SzRwOVBYd0d1R25UbXpvTnBndlNCWGowNGpEbGpJRGJqQjFON1p6WUNNMkRJOUxjVDZDSWRHZWMzSm5HNk1CWFZDc3ZFcEwzVW9UQWtLVUhTSUNsR0dZVG05T1BDOUY3Wl9lMzludUU1NDRUc2J4ektoVkEwUQ?oc=5"
-  },
-  {
-    "time": "2026-11-26 09:12:14",
-    "news_title": "NVDA Stock Quote Price and Forecast - CNN",
-    "source": "CNN",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oakpQaVAtWVg3Rjh6M2FFaExEa1JVeThKN1FIX1p2OG1lWmVaVnhlU3Zsek42ZlRyd055aXc2dGNHa0NxV2RfU1I1dUoweXNi?oc=5"
-  },
-  {
-    "time": "2026-11-26 09:12:14",
-    "news_title": "Nvidia Stock Rises On Report. Board Says No To CEO Return Bid. - Investor's Business Daily",
-    "source": "Investor's Business Daily",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEx5ajRyZTctMzlRWGYyelF2RHNJcEEzd3I5alJ1YktQb1NqcFgxR3NPZVpMZUFMZzdhVTlMRkxxRG5kZVBhcG1qNTMwYlEybVN5NVhUazJYX0NPUVVHc1E1Mms5SXVuWHZVakZBZ0M5ZU56U01fRzZxVjBGeEEzcU9WU0phOXc0S0I0dHNBdUNPNC16?oc=5"
-  },
-  {
-    "time": "2026-11-26 09:12:14",
-    "news_title": "Nvidia Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call - Benzinga",
-    "source": "Benzinga",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNkZtLTBmbWZlWWROT05ZbHdEZFZ4QmRUdm1LQmRwcG85UWdwZ3NmX0VjRlJOTHByTklNalprNnBydWdxRVpBQ0RMS0Q3cXp1ZVM4TUxUaFpIWXA3Um1ibG93MDhjRXBUcVZDQmFHR3ZkRjVtRHRsc0tYeXgxczhUeEJBZktacW52N2tCZ2Z4dXZqSzg1QzFwNFg2cU9DNjBaNk9xazZaTlFrZVBlSF85U1FyYkF4eGUta2RqaE9jTmlnQ2FYd1RNZUU1WXd4dDMtSTJWV083cllQM0E4R092dXNILUgwb1RXRXBVUEJfSEZLeGUzRVRyblNrUWhwWER3UC1jag?oc=5"
-  },
-  {
-    "time": "2026-11-26 09:12:14",
-    "news_title": "Alphabet's third-quarter results missed expectations. They led one analyst to downgrade the stock - CNBC",
-    "source": "CNBC",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05Rmh4aHBLMGRpVWhGR3pXaVg3dDhzVk5QTkJ2QVJ4WlZxZVF0ZnRNM290amk0UjFQekdIZnFZNGVZWXZ6SFQ3elpVMHlkRkRscm9vUW5hVy1KQkJwazJMaGFjVm95djlwVHctRGZXVTdMWTJlOE52V0xRY2RyQVE?oc=5"
-  },
-  {
-    "time": "2026-11-26 09:12:14",
-    "news_title": "Nvidia Corporation (NVDA) Stock Analysis and Outlook Following Record Earnings and Analyst Rating Revisions - The Globe and Mail",
-    "source": "The Globe and Mail",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNUnd1aDRkbG1mQXJGSWlWamREZ0N0eUlhZEZSTjJWRjVVX0ZRdzUwZGV0cXZNZ2ZaU1dfZUx4ODNmeDQ5eGVqd0llX1NLLUlyelNJQ3J2aVlndFowQXFYOXNJOHBrWU56WExHY29OT3FpUU5kUTYyVUFLRXZVSFkxS0tOdXpUUUxfSFY2V2VJMGtPRzd3NmdxNEthUURmTU5pT2xuZWwyZ0RnWjF2WUF2cWlXbTJMQ18zeWk4dGRweXhWSFhaRUN3a2FsdXd1MmV4RTFjQ1M0ZE84SGhJRUhZZ05wYV9LTS10WVA0QU12My1ZVmZXMFptQkRRVXJOc3plM1FwamFVM0lvUkdTYWlCOTU5UlVmZURPaC1aQg?oc=5"
-  },
-  {
-    "time": "2026-11-26 09:12:14",
-    "news_title": "NVDA Earnings Preview: Nvidia’s AI Engine Is Running, But Can It Keep Growing Without Its Chief Architect? - TradingView",
-    "source": "TradingView",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWFk2UmhQRTVTeXlHSmNoWW5SRkItMlM2UFI5V1BkV2pIb2pkUDZfTVU0Um9sbjNvWXB3T1RvY1oySHF5TXZMem9CN3VNTGQ4NXUwcF9NQkpDeWlhT2cyLTlrci1TdF8zSEc2MDZmQlo3WXVJdWxoM2VNTlIwRVFSV0oyVV84cW1jSVREN1hVdkJGLXBWSHk4WS0zT1dtNUVQOVlNcWU4Z2t1REpNUndQdTlDUjJWRDB3dER6eFJkMFdlbVNWWUhlRjdPeFFwSXRQMkNoTVFwYlZkQWdpczgtWlVrYXhtUHZ6TTdueTNweWRieVZoQl80?oc=5"
-  },
-  {
-    "time": "2026-11-26 09:12:14",
-    "news_title": "NVIDIA (NASDAQ:NVDA) Stock Rating Raised to \"Strong-Buy\" at Stonex Financial - MarketBeat",
-    "source": "MarketBeat",
-    "impact_level": "Low",
-    "affected_assets": [],
-    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
-    "action_recommendation": "รอดูสถานการณ์",
-    "trigger_alert": false,
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONlFUSElhWjRfT195dTZuY3I0QWhudlQ1WlpXQ0xmUlNsX0pZRFFHbUQ0WWVzWEd5UHktVENSd25DcDFwQ2RjQVQ1aGtHeVNLUWNIOVpTUDRBdXlNTVdwVnJzMFJMd3BocVRERnhBMjMzeHdpZ3hVZ2dkcUQ1RWZKdGswWVFLMWJoT0dBWXVUc3hxOFJPOGJwVHo1NUhzelVZSHFnQUxiQk10di1Ta1BYVDVpM2hGMnhDTVBZS3BKZmRQZndaT1ItdjBWMmhGcHM?oc=5"
+    "url": ""
   }
 ]
