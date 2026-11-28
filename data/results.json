@@ -1,13 +1,90 @@
 [
   {
-    "time": "2026-11-27 09:29:20",
-    "news_title": "ไม่พบข่าวจาก RSS",
-    "source": "System",
+    "time": "2026-11-28 08:42:22",
+    "news_title": "Prediction: AMD Stock Could Rally 58% as Analysts Maintain Strong Buy Rating - Yahoo Finance",
+    "source": "Yahoo Finance",
     "impact_level": "Low",
     "affected_assets": [],
-    "analysis_summary": "ระบบดึงข่าวจาก Google News RSS ไม่สำเร็จหรือไม่มีข่าวใหม่",
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
     "action_recommendation": "รอดูสถานการณ์",
     "trigger_alert": false,
-    "url": ""
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWkxOdU01SzNIV196RU9WazhvcnhyeGs0QlJBdW5neUg5SzRwOVBYd0d1R25UbXpvTnBndlNCWGowNGpEbGpJRGJqQjFON1p6WUNNMkRJOUxjVDZDSWRHZWMzSm5HNk1CWFZDc3ZFcEwzVW9UQWtLVUhTSUNsR0dZVG05T1BDOUY3Wl9lMzludUU1NDRUc2J4ektoVkEwUQ?oc=5"
+  },
+  {
+    "time": "2026-11-28 08:42:22",
+    "news_title": "AMD Stock Gets A Downgrade From Erste Group – Analyst Flags Valuation Concerns, Low Potential For Share Gains - TradingView",
+    "source": "TradingView",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSDdFNDh3MXEtLUdnMmNidzRZOWVFenI4MHFWdUJlQ2RyVXYxS0Q2N1dxdnJrNDZuOHBzNUtiWlNJUE1uRHFZNGgtT2J6ejQxRHpUNjgwWndmMUVLTU1hWXVZU3kxV0F5clFfR2RQSGIwTS03LXFqYlc4YUZhWnVkN1g2N3Q2VGJQRDBMYUJ1VnFfVkJyREFrSFFBRnBaaXk5dHYyRU5vR1M2NVVobkNqU29FZkQwbmxUdFd5VzJHYW1nMm41ZU1NTzRLa3ZSaTQzYlNUaVcxa1BnNFVyN1c0QmtPc0tMY0J0MXE1dzBYOGVycFctVWU2UnVFZw?oc=5"
+  },
+  {
+    "time": "2026-11-28 08:42:22",
+    "news_title": "Nvidia Stock Rises On Report. Board Says No To CEO Return Bid. - Investor's Business Daily",
+    "source": "Investor's Business Daily",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEx5ajRyZTctMzlRWGYyelF2RHNJcEEzd3I5alJ1YktQb1NqcFgxR3NPZVpMZUFMZzdhVTlMRkxxRG5kZVBhcG1qNTMwYlEybVN5NVhUazJYX0NPUVVHc1E1Mms5SXVuWHZVakZBZ0M5ZU56U01fRzZxVjBGeEEzcU9WU0phOXc0S0I0dHNBdUNPNC16?oc=5"
+  },
+  {
+    "time": "2026-11-28 08:42:22",
+    "news_title": "Nvidia Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call - Benzinga",
+    "source": "Benzinga",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'service': 'generativelanguage.googleapis.com', 'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNkZtLTBmbWZlWWROT05ZbHdEZFZ4QmRUdm1LQmRwcG85UWdwZ3NmX0VjRlJOTHByTklNalprNnBydWdxRVpBQ0RMS0Q3cXp1ZVM4TUxUaFpIWXA3Um1ibG93MDhjRXBUcVZDQmFHR3ZkRjVtRHRsc0tYeXgxczhUeEJBZktacW52N2tCZ2Z4dXZqSzg1QzFwNFg2cU9DNjBaNk9xazZaTlFrZVBlSF85U1FyYkF4eGUta2RqaE9jTmlnQ2FYd1RNZUU1WXd4dDMtSTJWV083cllQM0E4R092dXNILUgwb1RXRXBVUEJfSEZLeGUzRVRyblNrUWhwWER3UC1jag?oc=5"
+  },
+  {
+    "time": "2026-11-28 08:42:22",
+    "news_title": "Nvidia Corporation (NVDA) Stock Analysis and Outlook Following Record Earnings and Analyst Rating Revisions - The Globe and Mail",
+    "source": "The Globe and Mail",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNUnd1aDRkbG1mQXJGSWlWamREZ0N0eUlhZEZSTjJWRjVVX0ZRdzUwZGV0cXZNZ2ZaU1dfZUx4ODNmeDQ5eGVqd0llX1NLLUlyelNJQ3J2aVlndFowQXFYOXNJOHBrWU56WExHY29OT3FpUU5kUTYyVUFLRXZVSFkxS0tOdXpUUUxfSFY2V2VJMGtPRzd3NmdxNEthUURmTU5pT2xuZWwyZ0RnWjF2WUF2cWlXbTJMQ18zeWk4dGRweXhWSFhaRUN3a2FsdXd1MmV4RTFjQ1M0ZE84SGhJRUhZZ05wYV9LTS10WVA0QU12My1ZVmZXMFptQkRRVXJOc3plM1FwamFVM0lvUkdTYWlCOTU5UlVmZURPaC1aQg?oc=5"
+  },
+  {
+    "time": "2026-11-28 08:42:22",
+    "news_title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027 - CNBC",
+    "source": "CNBC",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mMXgyTllzVlZsWFR1UGY5bTVRWWNYRnFoX3pCdDVjNU41Q3VQUTJyb2lTSUs3ZTdBakY3M0RVaERvZUZRMXA2RlhlYTNyeUJnb1MyX0ZjVHJWODNxd0pWbWRHRjNqb0FWVC1xdzdzZ29qQW8wMl9Z0gF8QVVfeXFMTU5rc0Fla1l1QVdxV2I0d3Znd2JCWm1tY1EtdFR6NTNuV0FaYmhWbEVsZUhFYWdNcXZ0ZGlrdWVaZUxnbThKMVR4V290N0hyb3VmSmtRVDFuUC03Yks5b3poak1UNFJoNkE3RHkzWWZMeUFqajFCc0Yzc1BwSw?oc=5"
+  },
+  {
+    "time": "2026-11-28 08:42:22",
+    "news_title": "Sandisk: Following A 60% Decline It's Too Cheap To Ignore (Rating Upgrade) (NASDAQ:SNDK) - Seeking Alpha",
+    "source": "Seeking Alpha",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0FTeUs1a3ppRjkyNHV3THcyaFBHYlJhUDRKLVlZcE8tMl84R1BlVk5PeThVVGpDb18wY2FyZXYyQUtFUnVJbFZyaUxpMzFCRlozdkdHQUE3OGZ0clVuVERocTcyYU1lR0M3NjY1X05yZG1QUUJiem84M3JQZ1IxSVNsTVlDT2xIT01TcXlPUHdqOFlTWkdGY2ZPSFNOejN5T1JHR1N1b2FpOThZWFdIVDVTSjNLWjM5Z0E?oc=5"
+  },
+  {
+    "time": "2026-11-28 08:42:22",
+    "news_title": "NVDA Stock Price Forecast — Top Analysts Give Multiple Downgrades Ahead of November 17 Earnings amid CEO Jensen Huang Fiasco - Yahoo Finance",
+    "source": "Yahoo Finance",
+    "impact_level": "Low",
+    "affected_assets": [],
+    "analysis_summary": "วิเคราะห์ข่าวนี้ไม่สำเร็จ: 401 UNAUTHENTICATED. {'error': {'code': 401, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'UNAUTHENTICATED', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'ACCESS_TOKEN_TYPE_UNSUPPORTED', 'metadata': {'method': 'google.ai.generativelanguage.v1.GenerativeService.GenerateContent', 'service': 'generativelanguage.googleapis.com'}}]}}",
+    "action_recommendation": "รอดูสถานการณ์",
+    "trigger_alert": false,
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzU2YmpfQXpJMHVJel9uQWFUc1NVa2tySzllZUdfbUVSeFFFcmQwZkNLNFFVQTNtQkc0QS1LQzVTcEd6N21qNjZqVzc1Y3BRcFFOWW5hX3hMeENBTG1pUFV5UDZ5RjR1ZUtZa29mNlRmRlVUMVNUNVZVTFZDS01xaVhBMzUtdlVIVHVObEZlOXcwaFZuWExrUTlR?oc=5"
   }
 ]
